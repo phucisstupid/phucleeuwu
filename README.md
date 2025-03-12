@@ -14,8 +14,6 @@
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu)
 
 ---
-
-### 🕹 **GitHub Contribution Snake Game**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucleeuwu/dotfiles/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phucleeuwu/dotfiles/output/github-contribution-grid-snake.svg">
