@@ -32,5 +32,5 @@
 💙 **Enjoying my work?** Give it a ⭐ on **[GitHub](https://github.com/phucleeuwu)** and connect with me! 🚀
 
 ---
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
