@@ -1,10 +1,31 @@
 <h1 align="center">Hi there, I'm Phuc Lee 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+Coding+%26+Open+Source;Let's+build+something+cool+together!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Developer!;I+love+learning+new+tech!">
 </p>
 
 ---
+
+### 🚀 **GitHub Stats**
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu) 
+[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu) 
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu)
+
+---
+
+### 🕹 **GitHub Contribution Snake Game**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucleeuwu/dotfiles/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phucleeuwu/dotfiles/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phucleeuwu/dotfiles/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 🌟 **Show Some Love**
+If you like my work, give it a ⭐ on **[GitHub](https://github.com/phucleeuwu)** and connect with me!  
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C847%20hrs%2014%20mins-blue)
