@@ -19,11 +19,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#495](https://github.com/catppuccin/nix/issues/495) in [catppuccin/nix](https://github.com/catppuccin/nix)
-2. 🗣 Commented on [#1380](https://github.com/LnL7/nix-darwin/issues/1380#issuecomment-2714603060) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
-3. 🗣 Commented on [#978](https://github.com/danth/stylix/issues/978#issuecomment-2714525067) in [danth/stylix](https://github.com/danth/stylix)
-4. ❗ Opened issue [#388984](https://github.com/NixOS/nixpkgs/issues/388984) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. ❗ Opened issue [#6603](https://github.com/nix-community/home-manager/issues/6603) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. 🎉 Merged PR [#4](https://github.com/phucleeuwu/dotfiles/pull/4) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+2. 🎉 Merged PR [#3](https://github.com/phucleeuwu/dotfiles/pull/3) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+3. 💪 Opened PR [#3](https://github.com/phucleeuwu/dotfiles/pull/3) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+4. 🎉 Merged PR [#2](https://github.com/phucleeuwu/dotfiles/pull/2) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+5. 🗣 Commented on [#1](https://github.com/phucleeuwu/dotfiles/pull/1#issuecomment-2716167223) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
