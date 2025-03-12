@@ -23,8 +23,12 @@
 
 ---
 
-### 🌟 **Show Some Love**
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>If you like my work, give it a ⭐ on **[GitHub](https://github.com/phucleeuwu)** and connect with me!</b> 😊</em>
+### 🌟 **Show Some Love**  
+<p align="center">
+  <img src="https://media.giphy.com/media/fvT2uzkvsjwKS4V2Xr/giphy.gif" width="120">
+</p>  
+
+💙 **Enjoying my work?** Give it a ⭐ on **[GitHub](https://github.com/phucleeuwu)** and connect with me! 🚀  
 
 ---
 <!--START_SECTION:waka-->
