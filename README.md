@@ -28,16 +28,13 @@
 
 ---
 
-### 🌟 **Top Languages**
+### 📊 **Development Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucleeuwu&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🎮 **GitHub Contribution Snake**
-<p align="center">
-  <img src="https://github.com/phucleeuwu/phucleeuwu/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucleeuwu/dotfiles/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phucleeuwu/dotfiles/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phucleeuwu/dotfiles/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
