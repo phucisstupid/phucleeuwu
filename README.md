@@ -12,9 +12,9 @@
 ---
 
 ### 🚀 **GitHub Stats**
-<p align="center">
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucleeuwu&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=phucleeuwu&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucleeuwu&theme=tokyonight" />
 </p>
 
 ---
