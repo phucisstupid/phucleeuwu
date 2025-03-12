@@ -23,12 +23,13 @@
 
 ---
 
-### 🌟 **Show Some Love**  
-<p align="center">
-  <img src="https://media.giphy.com/media/fvT2uzkvsjwKS4V2Xr/giphy.gif" width="120">
-</p>  
+### 🌟 **Show Some Love**
 
-💙 **Enjoying my work?** Give it a ⭐ on **[GitHub](https://github.com/phucleeuwu)** and connect with me! 🚀  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Cyberpunk Animation">
+</p>
+
+💙 **Enjoying my work?** Give it a ⭐ on **[GitHub](https://github.com/phucleeuwu)** and connect with me! 🚀
 
 ---
 <!--START_SECTION:waka-->
