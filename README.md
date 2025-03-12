@@ -33,4 +33,9 @@
 
 ---
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#495](https://github.com/catppuccin/nix/issues/495) in [catppuccin/nix](https://github.com/catppuccin/nix)
+2. 🗣 Commented on [#1380](https://github.com/LnL7/nix-darwin/issues/1380#issuecomment-2714603060) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
+3. 🗣 Commented on [#978](https://github.com/danth/stylix/issues/978#issuecomment-2714525067) in [danth/stylix](https://github.com/danth/stylix)
+4. ❗ Opened issue [#388984](https://github.com/NixOS/nixpkgs/issues/388984) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ❗ Opened issue [#6603](https://github.com/nix-community/home-manager/issues/6603) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 <!--END_SECTION:activity-->
