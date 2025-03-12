@@ -14,6 +14,7 @@
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu)
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucleeuwu/dotfiles/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phucleeuwu/dotfiles/output/github-contribution-grid-snake.svg">
@@ -24,6 +25,8 @@
 
 ### 🌟 **Show Some Love**
 If you like my work, give it a ⭐ on **[GitHub](https://github.com/phucleeuwu)** and connect with me!  
+
+---
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C847%20hrs%2014%20mins-blue)
