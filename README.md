@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Phuc Lee 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Noob!;I+love+learning+new+thing!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Noob!+ ;+I+love+learning+new+thing!">
 </p>
 
 ---
