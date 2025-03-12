@@ -24,8 +24,7 @@
 ---
 
 ### 🌟 **Show Some Love**
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>If you like my work, give it a ⭐ on **[GitHub](https://github.com/phucleeuwu)** and connect with me!  
-</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>If you like my work, give it a ⭐ on **[GitHub](https://github.com/phucleeuwu)** and connect with me!</b> 😊</em>
 
 ---
 <!--START_SECTION:waka-->
