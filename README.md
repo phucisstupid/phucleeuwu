@@ -26,7 +26,7 @@
 ### 🌟 **Show Some Love**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Cyberpunk Animation">
+  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media.giphy.com/media/u5sgL5pks5JXKHcVZo/giphy.gif?cid=790b76116of0qq8qej401r9z32wfcv0wfvvgb3m8pm5imi12&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="300" alt="Cyberpunk Animation">
 </p>
 
 💙 **Enjoying my work?** Give it a ⭐ on **[GitHub](https://github.com/phucleeuwu)** and connect with me! 🚀
