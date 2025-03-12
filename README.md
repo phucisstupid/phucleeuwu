@@ -26,10 +26,6 @@
 5. ❗ Opened issue [#6603](https://github.com/nix-community/home-manager/issues/6603) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 <!--END_SECTION:activity-->
 
----
-
-## 📊 WakaTime Stats
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
