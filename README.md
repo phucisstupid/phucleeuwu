@@ -26,8 +26,9 @@
 ### 🌟 **Show Some Love**
 If you like my work, give it a ⭐ on **[GitHub](https://github.com/phucleeuwu)** and connect with me!  
 
----
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C847%20hrs%2014%20mins-blue)
 
