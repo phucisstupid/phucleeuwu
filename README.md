@@ -11,19 +11,11 @@
 
 ---
 
-### 📌 **About Me**
-- 🔭 I’m currently working on **cool projects with Nix & Darwin**
-- 🌱 Learning **Nix, Flake, and GitHub Actions**
-- 💬 Ask me about **NixOS, GitHub Actions, and Automation**
-- 🎯 Goal: **Master DevOps & Open Source**
-- 📫 Reach me at **[your email or socials]**
-
----
-
 ### 🚀 **GitHub Stats**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=phucleeuwu&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=phucleeuwu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucleeuwu&theme=tokyonight" />
 </p>
 
 ---
@@ -36,24 +28,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/phucleeuwu/phucleeuwu/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
----
-
-### 📈 **Latest Activity**
-<!--START_SECTION:activity-->
-1. 🛠 Working on **NixOS & GitHub Actions**
-2. 🚀 Pushing **updates to my dotfiles**
-3. 🎯 Automating workflows with **Nix flakes**
-<!--END_SECTION:activity-->
-
----
-
-### 🔥 **Fun Stats**
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucleeuwu&theme=tokyonight" />
-</p>
-
----
-
-### 💖 **Support Me**
-If you like my work, give me a ⭐ and let's connect! 🚀  
