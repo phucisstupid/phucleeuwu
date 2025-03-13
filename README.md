@@ -19,11 +19,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1383](https://github.com/LnL7/nix-darwin/issues/1383) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
-2. 🗣 Commented on [#1380](https://github.com/LnL7/nix-darwin/issues/1380#issuecomment-2717721286) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
-3. 🗣 Commented on [#1380](https://github.com/LnL7/nix-darwin/issues/1380#issuecomment-2717379264) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
-4. 🎉 Merged PR [#5](https://github.com/phucleeuwu/dotfiles/pull/5) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-5. 🎉 Merged PR [#4](https://github.com/phucleeuwu/dotfiles/pull/4) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+1. ❗ Opened issue [#1384](https://github.com/LnL7/nix-darwin/issues/1384) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
+2. ❗ Opened issue [#1383](https://github.com/LnL7/nix-darwin/issues/1383) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
+3. 🗣 Commented on [#1380](https://github.com/LnL7/nix-darwin/issues/1380#issuecomment-2717721286) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
+4. 🗣 Commented on [#1380](https://github.com/LnL7/nix-darwin/issues/1380#issuecomment-2717379264) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
+5. 🎉 Merged PR [#5](https://github.com/phucleeuwu/dotfiles/pull/5) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
