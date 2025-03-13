@@ -19,11 +19,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/phucleeuwu/dotfiles/pull/5) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-2. 🎉 Merged PR [#4](https://github.com/phucleeuwu/dotfiles/pull/4) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-3. 🎉 Merged PR [#3](https://github.com/phucleeuwu/dotfiles/pull/3) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-4. 💪 Opened PR [#3](https://github.com/phucleeuwu/dotfiles/pull/3) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-5. 🎉 Merged PR [#2](https://github.com/phucleeuwu/dotfiles/pull/2) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+1. 🗣 Commented on [#1380](https://github.com/LnL7/nix-darwin/issues/1380#issuecomment-2717379264) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
+2. 🎉 Merged PR [#5](https://github.com/phucleeuwu/dotfiles/pull/5) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+3. 🎉 Merged PR [#4](https://github.com/phucleeuwu/dotfiles/pull/4) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+4. 🎉 Merged PR [#3](https://github.com/phucleeuwu/dotfiles/pull/3) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+5. 💪 Opened PR [#3](https://github.com/phucleeuwu/dotfiles/pull/3) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
