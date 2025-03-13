@@ -19,11 +19,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1380](https://github.com/LnL7/nix-darwin/issues/1380#issuecomment-2718217046) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
-2. 🚀 Published release [First release](https://github.com/phucleeuwu/statix-action/releases/tag/v1) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
-3. ❌ Closed PR [#7](https://github.com/phucleeuwu/dotfiles/pull/7) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-4. 🚀 Published release [Deadnix Action - First Release](https://github.com/phucleeuwu/deadnix-action/releases/tag/v1) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
-5. 🗣 Commented on [#1380](https://github.com/LnL7/nix-darwin/issues/1380#issuecomment-2718040005) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
+1. ❗ Opened issue [#12638](https://github.com/NixOS/nix/issues/12638) in [NixOS/nix](https://github.com/NixOS/nix)
+2. 🗣 Commented on [#1380](https://github.com/LnL7/nix-darwin/issues/1380#issuecomment-2718217046) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
+3. 🚀 Published release [First release](https://github.com/phucleeuwu/statix-action/releases/tag/v1) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
+4. ❌ Closed PR [#7](https://github.com/phucleeuwu/dotfiles/pull/7) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+5. 🚀 Published release [Deadnix Action - First Release](https://github.com/phucleeuwu/deadnix-action/releases/tag/v1) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
