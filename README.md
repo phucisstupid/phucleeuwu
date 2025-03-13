@@ -19,11 +19,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#189](https://github.com/DeterminateSystems/flakehub-push/issues/189) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
-2. 🎉 Merged PR [#8](https://github.com/phucleeuwu/dotfiles/pull/8) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-3. ❗ Opened issue [#12638](https://github.com/NixOS/nix/issues/12638) in [NixOS/nix](https://github.com/NixOS/nix)
-4. 🗣 Commented on [#1380](https://github.com/LnL7/nix-darwin/issues/1380#issuecomment-2718217046) in [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin)
-5. 🚀 Published release [First release](https://github.com/phucleeuwu/statix-action/releases/tag/v1) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
+1. ❗ Opened issue [#1491](https://github.com/DeterminateSystems/nix-installer/issues/1491) in [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer)
+2. ❗ Opened issue [#190](https://github.com/DeterminateSystems/flakehub-push/issues/190) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
+3. ❗ Opened issue [#189](https://github.com/DeterminateSystems/flakehub-push/issues/189) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
+4. 🎉 Merged PR [#8](https://github.com/phucleeuwu/dotfiles/pull/8) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+5. ❗ Opened issue [#12638](https://github.com/NixOS/nix/issues/12638) in [NixOS/nix](https://github.com/NixOS/nix)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
