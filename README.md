@@ -19,11 +19,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#504](https://github.com/catppuccin/nix/issues/504) in [catppuccin/nix](https://github.com/catppuccin/nix)
-2. 🔒 Closed issue [#9](https://github.com/matadaniel/LazyVim-module/issues/9) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-3. ❗ Opened issue [#6626](https://github.com/nix-community/home-manager/issues/6626) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. ❗ Opened issue [#11](https://github.com/matadaniel/LazyVim-module/issues/11) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-5. ❗ Opened issue [#10](https://github.com/matadaniel/LazyVim-module/issues/10) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+1. ❗ Opened issue [#710](https://github.com/NotAShelf/nvf/issues/710) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+2. ❗ Opened issue [#3071](https://github.com/nix-community/nixvim/issues/3071) in [nix-community/nixvim](https://github.com/nix-community/nixvim)
+3. ❗ Opened issue [#51](https://github.com/elythh/nixvim/issues/51) in [elythh/nixvim](https://github.com/elythh/nixvim)
+4. ❗ Opened issue [#2](https://github.com/azuwis/lazyvim-nixvim/issues/2) in [azuwis/lazyvim-nixvim](https://github.com/azuwis/lazyvim-nixvim)
+5. ❗ Opened issue [#504](https://github.com/catppuccin/nix/issues/504) in [catppuccin/nix](https://github.com/catppuccin/nix)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
