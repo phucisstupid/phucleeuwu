@@ -19,11 +19,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1491](https://github.com/DeterminateSystems/nix-installer/issues/1491) in [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer)
-2. ❗ Opened issue [#190](https://github.com/DeterminateSystems/flakehub-push/issues/190) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
-3. ❗ Opened issue [#189](https://github.com/DeterminateSystems/flakehub-push/issues/189) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
-4. 🎉 Merged PR [#8](https://github.com/phucleeuwu/dotfiles/pull/8) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-5. ❗ Opened issue [#12638](https://github.com/NixOS/nix/issues/12638) in [NixOS/nix](https://github.com/NixOS/nix)
+1. ❗ Opened issue [#1](https://github.com/azuwis/lazyvim-nixvim/issues/1) in [azuwis/lazyvim-nixvim](https://github.com/azuwis/lazyvim-nixvim)
+2. ❗ Opened issue [#1491](https://github.com/DeterminateSystems/nix-installer/issues/1491) in [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer)
+3. ❗ Opened issue [#190](https://github.com/DeterminateSystems/flakehub-push/issues/190) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
+4. ❗ Opened issue [#189](https://github.com/DeterminateSystems/flakehub-push/issues/189) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
+5. 🎉 Merged PR [#8](https://github.com/phucleeuwu/dotfiles/pull/8) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
