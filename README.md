@@ -19,11 +19,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#710](https://github.com/NotAShelf/nvf/issues/710) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
-2. ❗ Opened issue [#3071](https://github.com/nix-community/nixvim/issues/3071) in [nix-community/nixvim](https://github.com/nix-community/nixvim)
-3. ❗ Opened issue [#51](https://github.com/elythh/nixvim/issues/51) in [elythh/nixvim](https://github.com/elythh/nixvim)
-4. ❗ Opened issue [#2](https://github.com/azuwis/lazyvim-nixvim/issues/2) in [azuwis/lazyvim-nixvim](https://github.com/azuwis/lazyvim-nixvim)
-5. ❗ Opened issue [#504](https://github.com/catppuccin/nix/issues/504) in [catppuccin/nix](https://github.com/catppuccin/nix)
+1. 🗣 Commented on [#710](https://github.com/NotAShelf/nvf/issues/710#issuecomment-2725077405) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+2. ❗ Opened issue [#710](https://github.com/NotAShelf/nvf/issues/710) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+3. ❗ Opened issue [#3071](https://github.com/nix-community/nixvim/issues/3071) in [nix-community/nixvim](https://github.com/nix-community/nixvim)
+4. ❗ Opened issue [#51](https://github.com/elythh/nixvim/issues/51) in [elythh/nixvim](https://github.com/elythh/nixvim)
+5. ❗ Opened issue [#2](https://github.com/azuwis/lazyvim-nixvim/issues/2) in [azuwis/lazyvim-nixvim](https://github.com/azuwis/lazyvim-nixvim)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
