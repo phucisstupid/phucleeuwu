@@ -19,11 +19,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6626](https://github.com/nix-community/home-manager/issues/6626) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. ❗ Opened issue [#11](https://github.com/matadaniel/LazyVim-module/issues/11) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-3. ❗ Opened issue [#10](https://github.com/matadaniel/LazyVim-module/issues/10) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-4. ❗ Opened issue [#6625](https://github.com/nix-community/home-manager/issues/6625) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-5. ❗ Opened issue [#9](https://github.com/matadaniel/LazyVim-module/issues/9) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+1. ❗ Opened issue [#504](https://github.com/catppuccin/nix/issues/504) in [catppuccin/nix](https://github.com/catppuccin/nix)
+2. 🔒 Closed issue [#9](https://github.com/matadaniel/LazyVim-module/issues/9) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+3. ❗ Opened issue [#6626](https://github.com/nix-community/home-manager/issues/6626) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. ❗ Opened issue [#11](https://github.com/matadaniel/LazyVim-module/issues/11) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+5. ❗ Opened issue [#10](https://github.com/matadaniel/LazyVim-module/issues/10) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
