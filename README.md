@@ -19,11 +19,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6625](https://github.com/nix-community/home-manager/issues/6625) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. ❗ Opened issue [#9](https://github.com/matadaniel/LazyVim-module/issues/9) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-3. ❗ Opened issue [#1](https://github.com/azuwis/lazyvim-nixvim/issues/1) in [azuwis/lazyvim-nixvim](https://github.com/azuwis/lazyvim-nixvim)
-4. ❗ Opened issue [#1491](https://github.com/DeterminateSystems/nix-installer/issues/1491) in [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer)
-5. ❗ Opened issue [#190](https://github.com/DeterminateSystems/flakehub-push/issues/190) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
+1. ❗ Opened issue [#11](https://github.com/matadaniel/LazyVim-module/issues/11) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+2. ❗ Opened issue [#10](https://github.com/matadaniel/LazyVim-module/issues/10) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+3. ❗ Opened issue [#6625](https://github.com/nix-community/home-manager/issues/6625) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. ❗ Opened issue [#9](https://github.com/matadaniel/LazyVim-module/issues/9) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+5. ❗ Opened issue [#1](https://github.com/azuwis/lazyvim-nixvim/issues/1) in [azuwis/lazyvim-nixvim](https://github.com/azuwis/lazyvim-nixvim)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
