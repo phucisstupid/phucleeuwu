@@ -19,11 +19,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18](https://github.com/catppuccin/zellij/issues/18) in [catppuccin/zellij](https://github.com/catppuccin/zellij)
-2. ❗ Opened issue [#6634](https://github.com/nix-community/home-manager/issues/6634) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. 🗣 Commented on [#710](https://github.com/NotAShelf/nvf/issues/710#issuecomment-2725077405) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
-4. ❗ Opened issue [#710](https://github.com/NotAShelf/nvf/issues/710) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
-5. ❗ Opened issue [#3071](https://github.com/nix-community/nixvim/issues/3071) in [nix-community/nixvim](https://github.com/nix-community/nixvim)
+1. 🚀 Published release [v1](https://github.com/phucleeuwu/statix-action/releases/tag/v1) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
+2. 🚀 Published release [v1](https://github.com/phucleeuwu/deadnix-action/releases/tag/v1) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
+3. ❗ Opened issue [#18](https://github.com/catppuccin/zellij/issues/18) in [catppuccin/zellij](https://github.com/catppuccin/zellij)
+4. ❗ Opened issue [#6634](https://github.com/nix-community/home-manager/issues/6634) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+5. 🗣 Commented on [#710](https://github.com/NotAShelf/nvf/issues/710#issuecomment-2725077405) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
