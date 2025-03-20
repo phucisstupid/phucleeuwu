@@ -19,11 +19,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#391470](https://github.com/NixOS/nixpkgs/pull/391470) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ❗ Opened issue [#6639](https://github.com/nix-community/home-manager/issues/6639) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. 🚀 Published release [v1](https://github.com/phucleeuwu/statix-action/releases/tag/v1) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
-4. 🚀 Published release [v1](https://github.com/phucleeuwu/deadnix-action/releases/tag/v1) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
-5. ❗ Opened issue [#18](https://github.com/catppuccin/zellij/issues/18) in [catppuccin/zellij](https://github.com/catppuccin/zellij)
+1. ❌ Closed PR [#391470](https://github.com/NixOS/nixpkgs/pull/391470) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#391470](https://github.com/NixOS/nixpkgs/pull/391470) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❗ Opened issue [#6639](https://github.com/nix-community/home-manager/issues/6639) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. 🚀 Published release [v1](https://github.com/phucleeuwu/statix-action/releases/tag/v1) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
+5. 🚀 Published release [v1](https://github.com/phucleeuwu/deadnix-action/releases/tag/v1) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
