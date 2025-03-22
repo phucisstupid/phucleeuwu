@@ -8,9 +8,6 @@
 
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu)
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu)
-[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu)
-
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu)
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu)
 
