@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#391470](https://github.com/NixOS/nixpkgs/pull/391470) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 💪 Opened PR [#391470](https://github.com/NixOS/nixpkgs/pull/391470) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. ❗ Opened issue [#6639](https://github.com/nix-community/home-manager/issues/6639) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. 🚀 Published release [v1](https://github.com/phucleeuwu/statix-action/releases/tag/v1) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
-5. 🚀 Published release [v1](https://github.com/phucleeuwu/deadnix-action/releases/tag/v1) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
+1. 🔒 Closed issue [#1](https://github.com/DanteAKD/Archinstall/issues/1) in [DanteAKD/Archinstall](https://github.com/DanteAKD/Archinstall)
+2. ❗ Opened issue [#1](https://github.com/DanteAKD/Archinstall/issues/1) in [DanteAKD/Archinstall](https://github.com/DanteAKD/Archinstall)
+3. 🔒 Closed issue [#504](https://github.com/catppuccin/nix/issues/504) in [catppuccin/nix](https://github.com/catppuccin/nix)
+4. 🔒 Closed issue [#10](https://github.com/matadaniel/LazyVim-module/issues/10) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+5. 🔒 Closed issue [#8](https://github.com/matadaniel/LazyVim-module/issues/8) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
