@@ -6,10 +6,9 @@
 
 ## 🚀 GitHub Stats
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu)
-
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu)
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucleeuwu&theme=tokyonight)](https://github.com/phucleeuwu)
+![Profile Detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucleeuwu&theme=transparent)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucleeuwu&theme=transparent)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucleeuwu&theme=transparent&utcOffset=8)
 
 ---
 
