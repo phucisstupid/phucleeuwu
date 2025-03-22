@@ -41,7 +41,7 @@
 
 ---
 
-### 💙 **Enjoying my work?** Give it a ⭐ on **[GitHub](https://github.com/phucleeuwu)** and connect with me! 🚀
+### 💙 **Enjoying my work?** Give it a ⭐ on **[GitHub](https://github.com/phucleeuwu)**
 
 <p align="left">
   <img src="https://media.giphy.com/media/u5sgL5pks5JXKHcVZo/giphy.gif" width="300" alt="Cyberpunk Animation">
