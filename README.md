@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+I'm+Phuc+Lee+👋;I'm+a+Noob!+and+I+love+learning+new+things!&font=Fira+Code&size=22&pause=100&color=7AA2F7&width=600&height=75&center=true&vCenter=true&multiline=true&repeat=true" alt="Typing SVG">
 </p>
 
----
-
-## 🚀 GitHub Stats
-
 ![Profile Detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucleeuwu&theme=transparent)
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucleeuwu&theme=transparent)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucleeuwu&theme=transparent&utcOffset=8)
