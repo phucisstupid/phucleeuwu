@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1045](https://github.com/danth/stylix/issues/1045) in [danth/stylix](https://github.com/danth/stylix)
-2. 🔒 Closed issue [#1](https://github.com/DanteAKD/Archinstall/issues/1) in [DanteAKD/Archinstall](https://github.com/DanteAKD/Archinstall)
-3. ❗ Opened issue [#1](https://github.com/DanteAKD/Archinstall/issues/1) in [DanteAKD/Archinstall](https://github.com/DanteAKD/Archinstall)
-4. 🔒 Closed issue [#504](https://github.com/catppuccin/nix/issues/504) in [catppuccin/nix](https://github.com/catppuccin/nix)
-5. 🔒 Closed issue [#10](https://github.com/matadaniel/LazyVim-module/issues/10) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+1. ❗ Opened issue [#1046](https://github.com/danth/stylix/issues/1046) in [danth/stylix](https://github.com/danth/stylix)
+2. ❗ Opened issue [#1045](https://github.com/danth/stylix/issues/1045) in [danth/stylix](https://github.com/danth/stylix)
+3. 🔒 Closed issue [#1](https://github.com/DanteAKD/Archinstall/issues/1) in [DanteAKD/Archinstall](https://github.com/DanteAKD/Archinstall)
+4. ❗ Opened issue [#1](https://github.com/DanteAKD/Archinstall/issues/1) in [DanteAKD/Archinstall](https://github.com/DanteAKD/Archinstall)
+5. 🔒 Closed issue [#504](https://github.com/catppuccin/nix/issues/504) in [catppuccin/nix](https://github.com/catppuccin/nix)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
