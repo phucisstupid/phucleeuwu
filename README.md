@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/phucleeuwu/dotfiles/pull/10) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-2. 💪 Opened PR [#10](https://github.com/phucleeuwu/dotfiles/pull/10) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-3. 🎉 Merged PR [#9](https://github.com/phucleeuwu/dotfiles/pull/9) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-4. 💪 Opened PR [#9](https://github.com/phucleeuwu/dotfiles/pull/9) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-5. 🗣 Commented on [#1046](https://github.com/danth/stylix/issues/1046#issuecomment-2745980382) in [danth/stylix](https://github.com/danth/stylix)
+1. ❗ Opened issue [#392297](https://github.com/NixOS/nixpkgs/issues/392297) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🎉 Merged PR [#10](https://github.com/phucleeuwu/dotfiles/pull/10) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+3. 💪 Opened PR [#10](https://github.com/phucleeuwu/dotfiles/pull/10) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+4. 🎉 Merged PR [#9](https://github.com/phucleeuwu/dotfiles/pull/9) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+5. 💪 Opened PR [#9](https://github.com/phucleeuwu/dotfiles/pull/9) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
