@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1046](https://github.com/danth/stylix/issues/1046#issuecomment-2745291266) in [danth/stylix](https://github.com/danth/stylix)
-2. ❗ Opened issue [#1046](https://github.com/danth/stylix/issues/1046) in [danth/stylix](https://github.com/danth/stylix)
-3. ❗ Opened issue [#1045](https://github.com/danth/stylix/issues/1045) in [danth/stylix](https://github.com/danth/stylix)
-4. 🔒 Closed issue [#1](https://github.com/DanteAKD/Archinstall/issues/1) in [DanteAKD/Archinstall](https://github.com/DanteAKD/Archinstall)
-5. ❗ Opened issue [#1](https://github.com/DanteAKD/Archinstall/issues/1) in [DanteAKD/Archinstall](https://github.com/DanteAKD/Archinstall)
+1. 🗣 Commented on [#1046](https://github.com/danth/stylix/issues/1046#issuecomment-2745980382) in [danth/stylix](https://github.com/danth/stylix)
+2. 🔒 Closed issue [#1045](https://github.com/danth/stylix/issues/1045) in [danth/stylix](https://github.com/danth/stylix)
+3. 🗣 Commented on [#1046](https://github.com/danth/stylix/issues/1046#issuecomment-2745291266) in [danth/stylix](https://github.com/danth/stylix)
+4. ❗ Opened issue [#1046](https://github.com/danth/stylix/issues/1046) in [danth/stylix](https://github.com/danth/stylix)
+5. ❗ Opened issue [#1045](https://github.com/danth/stylix/issues/1045) in [danth/stylix](https://github.com/danth/stylix)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
