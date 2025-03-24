@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1046](https://github.com/danth/stylix/issues/1046#issuecomment-2746227318) in [danth/stylix](https://github.com/danth/stylix)
-2. 🔒 Closed issue [#392297](https://github.com/NixOS/nixpkgs/issues/392297) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#392297](https://github.com/NixOS/nixpkgs/issues/392297#issuecomment-2746207563) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#392297](https://github.com/NixOS/nixpkgs/issues/392297#issuecomment-2746092169) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. ❗ Opened issue [#392297](https://github.com/NixOS/nixpkgs/issues/392297) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🎉 Merged PR [#11](https://github.com/phucleeuwu/dotfiles/pull/11) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+2. 🗣 Commented on [#1046](https://github.com/danth/stylix/issues/1046#issuecomment-2746227318) in [danth/stylix](https://github.com/danth/stylix)
+3. 🔒 Closed issue [#392297](https://github.com/NixOS/nixpkgs/issues/392297) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#392297](https://github.com/NixOS/nixpkgs/issues/392297#issuecomment-2746207563) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#392297](https://github.com/NixOS/nixpkgs/issues/392297#issuecomment-2746092169) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
