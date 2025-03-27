@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#82](https://github.com/srid/nixos-config/issues/82) in [srid/nixos-config](https://github.com/srid/nixos-config)
-2. 🗣 Commented on [#6639](https://github.com/nix-community/home-manager/issues/6639#issuecomment-2754743045) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. ❌ Closed PR [#27](https://github.com/omerxx/dotfiles/pull/27) in [omerxx/dotfiles](https://github.com/omerxx/dotfiles)
-4. 🎉 Merged PR [#1](https://github.com/phucleeuwu/dotflow/pull/1) in [phucleeuwu/dotflow](https://github.com/phucleeuwu/dotflow)
-5. 🎉 Merged PR [#11](https://github.com/phucleeuwu/dotfiles/pull/11) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+1. 🔒 Closed issue [#6639](https://github.com/nix-community/home-manager/issues/6639) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. ❗ Opened issue [#82](https://github.com/srid/nixos-config/issues/82) in [srid/nixos-config](https://github.com/srid/nixos-config)
+3. 🗣 Commented on [#6639](https://github.com/nix-community/home-manager/issues/6639#issuecomment-2754743045) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. ❌ Closed PR [#27](https://github.com/omerxx/dotfiles/pull/27) in [omerxx/dotfiles](https://github.com/omerxx/dotfiles)
+5. 🎉 Merged PR [#1](https://github.com/phucleeuwu/dotflow/pull/1) in [phucleeuwu/dotflow](https://github.com/phucleeuwu/dotflow)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
