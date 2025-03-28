@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#118](https://github.com/srid/nixos-unified/issues/118) in [srid/nixos-unified](https://github.com/srid/nixos-unified)
-2. ❗ Opened issue [#84](https://github.com/srid/nixos-config/issues/84) in [srid/nixos-config](https://github.com/srid/nixos-config)
-3. 🔒 Closed issue [#6639](https://github.com/nix-community/home-manager/issues/6639) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. ❗ Opened issue [#82](https://github.com/srid/nixos-config/issues/82) in [srid/nixos-config](https://github.com/srid/nixos-config)
-5. 🗣 Commented on [#6639](https://github.com/nix-community/home-manager/issues/6639#issuecomment-2754743045) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. 🗣 Commented on [#11](https://github.com/matadaniel/LazyVim-module/issues/11#issuecomment-2759887982) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+2. ❗ Opened issue [#118](https://github.com/srid/nixos-unified/issues/118) in [srid/nixos-unified](https://github.com/srid/nixos-unified)
+3. ❗ Opened issue [#84](https://github.com/srid/nixos-config/issues/84) in [srid/nixos-config](https://github.com/srid/nixos-config)
+4. 🔒 Closed issue [#6639](https://github.com/nix-community/home-manager/issues/6639) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+5. ❗ Opened issue [#82](https://github.com/srid/nixos-config/issues/82) in [srid/nixos-config](https://github.com/srid/nixos-config)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
