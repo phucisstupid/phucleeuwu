@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/matadaniel/LazyVim-module/pull/19) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-2. ❌ Closed PR [#18](https://github.com/matadaniel/LazyVim-module/pull/18) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-3. 💪 Opened PR [#18](https://github.com/matadaniel/LazyVim-module/pull/18) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-4. 🗣 Commented on [#3](https://github.com/wyne/blog-comments/issues/3#issuecomment-2763100516) in [wyne/blog-comments](https://github.com/wyne/blog-comments)
-5. ❗ Opened issue [#6724](https://github.com/nix-community/home-manager/issues/6724) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. 💪 Opened PR [#21](https://github.com/matadaniel/LazyVim-module/pull/21) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+2. 🗣 Commented on [#20](https://github.com/matadaniel/LazyVim-module/issues/20#issuecomment-2763424587) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+3. 💪 Opened PR [#19](https://github.com/matadaniel/LazyVim-module/pull/19) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+4. ❌ Closed PR [#18](https://github.com/matadaniel/LazyVim-module/pull/18) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+5. 💪 Opened PR [#18](https://github.com/matadaniel/LazyVim-module/pull/18) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
