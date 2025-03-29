@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/matadaniel/LazyVim-module/pull/17) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-2. ❗ Opened issue [#16](https://github.com/matadaniel/LazyVim-module/issues/16) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-3. ❗ Opened issue [#87](https://github.com/srid/nixos-config/issues/87) in [srid/nixos-config](https://github.com/srid/nixos-config)
-4. 🗣 Commented on [#11](https://github.com/matadaniel/LazyVim-module/issues/11#issuecomment-2759887982) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-5. ❗ Opened issue [#118](https://github.com/srid/nixos-unified/issues/118) in [srid/nixos-unified](https://github.com/srid/nixos-unified)
+1. ❗ Opened issue [#6724](https://github.com/nix-community/home-manager/issues/6724) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. 💪 Opened PR [#17](https://github.com/matadaniel/LazyVim-module/pull/17) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+3. ❗ Opened issue [#16](https://github.com/matadaniel/LazyVim-module/issues/16) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+4. ❗ Opened issue [#87](https://github.com/srid/nixos-config/issues/87) in [srid/nixos-config](https://github.com/srid/nixos-config)
+5. 🗣 Commented on [#11](https://github.com/matadaniel/LazyVim-module/issues/11#issuecomment-2759887982) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
