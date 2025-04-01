@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6724](https://github.com/nix-community/home-manager/issues/6724#issuecomment-2767703159) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. 🗣 Commented on [#21](https://github.com/matadaniel/LazyVim-module/pull/21#issuecomment-2767698324) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-3. 🗣 Commented on [#527](https://github.com/catppuccin/nix/issues/527#issuecomment-2766361184) in [catppuccin/nix](https://github.com/catppuccin/nix)
-4. ❗ Opened issue [#92](https://github.com/anfreire/updateMe-Mobile/issues/92) in [anfreire/updateMe-Mobile](https://github.com/anfreire/updateMe-Mobile)
-5. 🎉 Merged PR [#12](https://github.com/phucleeuwu/dotfiles/pull/12) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+1. 🗣 Commented on [#22](https://github.com/matadaniel/LazyVim-module/pull/22#issuecomment-2767957209) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+2. 🗣 Commented on [#6724](https://github.com/nix-community/home-manager/issues/6724#issuecomment-2767703159) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. 🗣 Commented on [#21](https://github.com/matadaniel/LazyVim-module/pull/21#issuecomment-2767698324) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+4. 🗣 Commented on [#527](https://github.com/catppuccin/nix/issues/527#issuecomment-2766361184) in [catppuccin/nix](https://github.com/catppuccin/nix)
+5. ❗ Opened issue [#92](https://github.com/anfreire/updateMe-Mobile/issues/92) in [anfreire/updateMe-Mobile](https://github.com/anfreire/updateMe-Mobile)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
