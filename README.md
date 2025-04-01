@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#527](https://github.com/catppuccin/nix/issues/527#issuecomment-2766361184) in [catppuccin/nix](https://github.com/catppuccin/nix)
-2. ❗ Opened issue [#92](https://github.com/anfreire/updateMe-Mobile/issues/92) in [anfreire/updateMe-Mobile](https://github.com/anfreire/updateMe-Mobile)
-3. 🎉 Merged PR [#12](https://github.com/phucleeuwu/dotfiles/pull/12) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-4. 💪 Opened PR [#12](https://github.com/phucleeuwu/dotfiles/pull/12) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-5. 💪 Opened PR [#22](https://github.com/matadaniel/LazyVim-module/pull/22) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+1. 🗣 Commented on [#21](https://github.com/matadaniel/LazyVim-module/pull/21#issuecomment-2767698324) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+2. 🗣 Commented on [#527](https://github.com/catppuccin/nix/issues/527#issuecomment-2766361184) in [catppuccin/nix](https://github.com/catppuccin/nix)
+3. ❗ Opened issue [#92](https://github.com/anfreire/updateMe-Mobile/issues/92) in [anfreire/updateMe-Mobile](https://github.com/anfreire/updateMe-Mobile)
+4. 🎉 Merged PR [#12](https://github.com/phucleeuwu/dotfiles/pull/12) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+5. 💪 Opened PR [#12](https://github.com/phucleeuwu/dotfiles/pull/12) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
