@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/PhotonQuantum/flakes/issues/1) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
-2. ❗ Opened issue [#1](https://github.com/vitorf7/dotfiles/issues/1) in [vitorf7/dotfiles](https://github.com/vitorf7/dotfiles)
-3. ❗ Opened issue [#75](https://github.com/FelixKratz/dotfiles/issues/75) in [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
-4. ❗ Opened issue [#23](https://github.com/matadaniel/LazyVim-module/issues/23) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-5. 💪 Opened PR [#6739](https://github.com/nix-community/home-manager/pull/6739) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. 🚀 Published release [v2](https://github.com/phucleeuwu/deadnix-action/releases/tag/v2) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
+2. 🚀 Published release [v1](https://github.com/phucleeuwu/deadnix-action/releases/tag/v1) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
+3. ❗ Opened issue [#1](https://github.com/PhotonQuantum/flakes/issues/1) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
+4. ❗ Opened issue [#1](https://github.com/vitorf7/dotfiles/issues/1) in [vitorf7/dotfiles](https://github.com/vitorf7/dotfiles)
+5. ❗ Opened issue [#75](https://github.com/FelixKratz/dotfiles/issues/75) in [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
