@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2](https://github.com/phucleeuwu/deadnix-action/releases/tag/v2) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
-2. 🚀 Published release [v1](https://github.com/phucleeuwu/deadnix-action/releases/tag/v1) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
-3. ❗ Opened issue [#1](https://github.com/PhotonQuantum/flakes/issues/1) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
-4. ❗ Opened issue [#1](https://github.com/vitorf7/dotfiles/issues/1) in [vitorf7/dotfiles](https://github.com/vitorf7/dotfiles)
-5. ❗ Opened issue [#75](https://github.com/FelixKratz/dotfiles/issues/75) in [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
+1. 🔒 Closed issue [#1046](https://github.com/danth/stylix/issues/1046) in [danth/stylix](https://github.com/danth/stylix)
+2. 🚀 Published release [v2](https://github.com/phucleeuwu/deadnix-action/releases/tag/v2) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
+3. 🚀 Published release [v1](https://github.com/phucleeuwu/deadnix-action/releases/tag/v1) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
+4. ❗ Opened issue [#1](https://github.com/PhotonQuantum/flakes/issues/1) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
+5. ❗ Opened issue [#1](https://github.com/vitorf7/dotfiles/issues/1) in [vitorf7/dotfiles](https://github.com/vitorf7/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
