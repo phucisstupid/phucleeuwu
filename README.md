@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/snowfallorg/lib/issues/177#issuecomment-2780733338) in [snowfallorg/lib](https://github.com/snowfallorg/lib)
-2. ❗ Opened issue [#2](https://github.com/wueestry/nixos-config/issues/2) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
-3. ❗ Opened issue [#177](https://github.com/snowfallorg/lib/issues/177) in [snowfallorg/lib](https://github.com/snowfallorg/lib)
-4. 🗣 Commented on [#1384](https://github.com/nix-darwin/nix-darwin/issues/1384#issuecomment-2776406211) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-5. 🚀 Published release [v4](https://github.com/phucleeuwu/deadnix-action/releases/tag/v4) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
+1. 🗣 Commented on [#177](https://github.com/snowfallorg/lib/issues/177#issuecomment-2781003453) in [snowfallorg/lib](https://github.com/snowfallorg/lib)
+2. 🔒 Closed issue [#177](https://github.com/snowfallorg/lib/issues/177) in [snowfallorg/lib](https://github.com/snowfallorg/lib)
+3. 🗣 Commented on [#177](https://github.com/snowfallorg/lib/issues/177#issuecomment-2780733338) in [snowfallorg/lib](https://github.com/snowfallorg/lib)
+4. ❗ Opened issue [#2](https://github.com/wueestry/nixos-config/issues/2) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
+5. ❗ Opened issue [#177](https://github.com/snowfallorg/lib/issues/177) in [snowfallorg/lib](https://github.com/snowfallorg/lib)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
