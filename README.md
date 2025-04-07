@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/wueestry/nixos-config/issues/2#issuecomment-2782120970) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
-2. ❗ Opened issue [#2](https://github.com/er2de2/catppuccin_walls/issues/2) in [er2de2/catppuccin_walls](https://github.com/er2de2/catppuccin_walls)
-3. ❗ Opened issue [#1439](https://github.com/NixOS/nixos-hardware/issues/1439) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
-4. 🗣 Commented on [#177](https://github.com/snowfallorg/lib/issues/177#issuecomment-2781003453) in [snowfallorg/lib](https://github.com/snowfallorg/lib)
-5. 🔒 Closed issue [#177](https://github.com/snowfallorg/lib/issues/177) in [snowfallorg/lib](https://github.com/snowfallorg/lib)
+1. 🗣 Commented on [#1439](https://github.com/NixOS/nixos-hardware/issues/1439#issuecomment-2783107543) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
+2. 🗣 Commented on [#2](https://github.com/wueestry/nixos-config/issues/2#issuecomment-2782120970) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
+3. ❗ Opened issue [#2](https://github.com/er2de2/catppuccin_walls/issues/2) in [er2de2/catppuccin_walls](https://github.com/er2de2/catppuccin_walls)
+4. ❗ Opened issue [#1439](https://github.com/NixOS/nixos-hardware/issues/1439) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
+5. 🗣 Commented on [#177](https://github.com/snowfallorg/lib/issues/177#issuecomment-2781003453) in [snowfallorg/lib](https://github.com/snowfallorg/lib)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
