@@ -15,11 +15,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6724](https://github.com/nix-community/home-manager/issues/6724#issuecomment-2800015100) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. ❗ Opened issue [#26](https://github.com/matadaniel/LazyVim-module/issues/26) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-3. 🗣 Commented on [#6790](https://github.com/nix-community/home-manager/issues/6790#issuecomment-2798405252) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. 🗣 Commented on [#6790](https://github.com/nix-community/home-manager/issues/6790#issuecomment-2796770205) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-5. ❗ Opened issue [#271](https://github.com/Gerg-L/spicetify-nix/issues/271) in [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix)
+1. ❌ Closed PR [#6739](https://github.com/nix-community/home-manager/pull/6739) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. 🗣 Commented on [#6724](https://github.com/nix-community/home-manager/issues/6724#issuecomment-2804619489) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. 🔒 Closed issue [#6724](https://github.com/nix-community/home-manager/issues/6724) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. 🗣 Commented on [#6724](https://github.com/nix-community/home-manager/issues/6724#issuecomment-2800015100) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+5. ❗ Opened issue [#26](https://github.com/matadaniel/LazyVim-module/issues/26) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
