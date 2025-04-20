@@ -1,6 +1,6 @@
-## 👋 Welcome!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Cyberpunk banner"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+phucleeuwu;Welcome+to+my+GitHub+profile;I+❤️+Nix,+dotfiles,+and+automation.&center=true&width=500&height=50" alt="Typing SVG">
+</p>
 
 ---
 
