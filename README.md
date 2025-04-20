@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=2500&pause=100&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Hi+There!;Welcome+to+my+Github+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&duration=2500&pause=100&center=true&vCenter=true&multiline=true&width=1000&height=60&lines=Hi+There!;Welcome+to+my+Github+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 GitHub Stats
+## 〽️ Stats
 
 ![Profile Detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucleeuwu&theme=transparent)
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucleeuwu&theme=transparent)
@@ -25,7 +25,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phucleeuwu/phucleeuwu/output/github-contribution-grid-snake-dark.svg">
@@ -35,6 +35,6 @@
 
 ---
 
-## ⭐ Support My Work
+## ⭐ Support Me
 
 If you enjoy what I do, consider leaving a star on [my repositories](https://github.com/phucleeuwu). It really means a lot! 💙
