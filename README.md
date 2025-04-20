@@ -37,4 +37,4 @@
 
 ## ⭐ Support Me
 
-If you enjoy what I do, consider leaving a star on [my repositories](https://github.com/phucleeuwu/repositories). It really means a lot! 💙
+If you enjoy what I do, consider leaving a star on [my repositories](https://github.com/phucleeuwu?tab=repositories&type=source). It really means a lot! 💙
