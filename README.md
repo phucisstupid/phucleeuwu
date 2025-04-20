@@ -1,9 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Cyberpunk banner"/>
 
-## 👋 Welcome!
-
-Hi there! I'm **phucleeuwu**, a passionate developer diving deep into the world of **Nix**, **dotfiles**, and clean, automated setups. I love exploring modern tools and sharing what I learn along the way. 🌱
-
 ---
 
 ## 🚀 GitHub Stats
@@ -42,7 +38,3 @@ Hi there! I'm **phucleeuwu**, a passionate developer diving deep into the world 
 ## ⭐ Support My Work
 
 If you enjoy what I do, consider leaving a star on [my repositories](https://github.com/phucleeuwu). It really means a lot! 💙
-
-<p align="left">
-  <img src="https://media.giphy.com/media/u5sgL5pks5JXKHcVZo/giphy.gif" width="300" alt="Cyberpunk Animation">
-</p>
