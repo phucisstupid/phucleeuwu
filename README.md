@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6731](https://github.com/nix-community/home-manager/issues/6731) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. ❗ Opened issue [#114](https://github.com/numtide/blueprint/issues/114) in [numtide/blueprint](https://github.com/numtide/blueprint)
-3. 🗣 Commented on [#6626](https://github.com/nix-community/home-manager/issues/6626#issuecomment-2812862605) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. 🗣 Commented on [#532](https://github.com/catppuccin/nix/pull/532#issuecomment-2809204771) in [catppuccin/nix](https://github.com/catppuccin/nix)
-5. 🗣 Commented on [#536](https://github.com/catppuccin/nix/pull/536#issuecomment-2809187593) in [catppuccin/nix](https://github.com/catppuccin/nix)
+1. 💪 Opened PR [#6895](https://github.com/nix-community/home-manager/pull/6895) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. 🔒 Closed issue [#6731](https://github.com/nix-community/home-manager/issues/6731) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. ❗ Opened issue [#114](https://github.com/numtide/blueprint/issues/114) in [numtide/blueprint](https://github.com/numtide/blueprint)
+4. 🗣 Commented on [#6626](https://github.com/nix-community/home-manager/issues/6626#issuecomment-2812862605) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+5. 🗣 Commented on [#532](https://github.com/catppuccin/nix/pull/532#issuecomment-2809204771) in [catppuccin/nix](https://github.com/catppuccin/nix)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
