@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/catppuccin/libreoffice/pull/12) in [catppuccin/libreoffice](https://github.com/catppuccin/libreoffice)
-2. 💪 Opened PR [#12](https://github.com/catppuccin/libreoffice/pull/12) in [catppuccin/libreoffice](https://github.com/catppuccin/libreoffice)
-3. ❗ Opened issue [#6901](https://github.com/nix-community/home-manager/issues/6901) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. 🗣 Commented on [#14650](https://github.com/nushell/nushell/issues/14650#issuecomment-2824130281) in [nushell/nushell](https://github.com/nushell/nushell)
-5. 💪 Opened PR [#6895](https://github.com/nix-community/home-manager/pull/6895) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. ❗ Opened issue [#545](https://github.com/catppuccin/nix/issues/545) in [catppuccin/nix](https://github.com/catppuccin/nix)
+2. ❌ Closed PR [#12](https://github.com/catppuccin/libreoffice/pull/12) in [catppuccin/libreoffice](https://github.com/catppuccin/libreoffice)
+3. 💪 Opened PR [#12](https://github.com/catppuccin/libreoffice/pull/12) in [catppuccin/libreoffice](https://github.com/catppuccin/libreoffice)
+4. ❗ Opened issue [#6901](https://github.com/nix-community/home-manager/issues/6901) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+5. 🗣 Commented on [#14650](https://github.com/nushell/nushell/issues/14650#issuecomment-2824130281) in [nushell/nushell](https://github.com/nushell/nushell)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
