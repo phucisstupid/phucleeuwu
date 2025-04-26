@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#545](https://github.com/catppuccin/nix/issues/545) in [catppuccin/nix](https://github.com/catppuccin/nix)
-2. ❌ Closed PR [#12](https://github.com/catppuccin/libreoffice/pull/12) in [catppuccin/libreoffice](https://github.com/catppuccin/libreoffice)
-3. 💪 Opened PR [#12](https://github.com/catppuccin/libreoffice/pull/12) in [catppuccin/libreoffice](https://github.com/catppuccin/libreoffice)
-4. ❗ Opened issue [#6901](https://github.com/nix-community/home-manager/issues/6901) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-5. 🗣 Commented on [#14650](https://github.com/nushell/nushell/issues/14650#issuecomment-2824130281) in [nushell/nushell](https://github.com/nushell/nushell)
+1. 🚀 Published release [The First Stable Release of my nix config](https://github.com/phucleeuwu/nixos-config/releases/tag/v1.0) in [phucleeuwu/nixos-config](https://github.com/phucleeuwu/nixos-config)
+2. 🚀 Published release [The First Stable Release](https://github.com/phucleeuwu/nixos-config/releases/tag/v1.0) in [phucleeuwu/nixos-config](https://github.com/phucleeuwu/nixos-config)
+3. 🚀 Published release [v1.0 First stable](https://github.com/phucleeuwu/nixos-config/releases/tag/v1.0) in [phucleeuwu/nixos-config](https://github.com/phucleeuwu/nixos-config)
+4. ❗ Opened issue [#545](https://github.com/catppuccin/nix/issues/545) in [catppuccin/nix](https://github.com/catppuccin/nix)
+5. ❌ Closed PR [#12](https://github.com/catppuccin/libreoffice/pull/12) in [catppuccin/libreoffice](https://github.com/catppuccin/libreoffice)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
