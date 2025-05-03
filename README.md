@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#125](https://github.com/srid/nixos-unified/issues/125) in [srid/nixos-unified](https://github.com/srid/nixos-unified)
-2. 🔒 Closed issue [#1](https://github.com/PhotonQuantum/flakes/issues/1) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
-3. 🗣 Commented on [#1](https://github.com/PhotonQuantum/flakes/issues/1#issuecomment-2833876378) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
-4. 🚀 Published release [The First Stable Release of my nix config](https://github.com/phucleeuwu/nixos-config/releases/tag/v1.0) in [phucleeuwu/nixos-config](https://github.com/phucleeuwu/nixos-config)
-5. 🚀 Published release [The First Stable Release](https://github.com/phucleeuwu/nixos-config/releases/tag/v1.0) in [phucleeuwu/nixos-config](https://github.com/phucleeuwu/nixos-config)
+1. 🗣 Commented on [#92](https://github.com/anfreire/updateMe-Mobile/issues/92#issuecomment-2848571894) in [anfreire/updateMe-Mobile](https://github.com/anfreire/updateMe-Mobile)
+2. ❗ Opened issue [#125](https://github.com/srid/nixos-unified/issues/125) in [srid/nixos-unified](https://github.com/srid/nixos-unified)
+3. 🔒 Closed issue [#1](https://github.com/PhotonQuantum/flakes/issues/1) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
+4. 🗣 Commented on [#1](https://github.com/PhotonQuantum/flakes/issues/1#issuecomment-2833876378) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
+5. 🚀 Published release [The First Stable Release of my nix config](https://github.com/phucleeuwu/nixos-config/releases/tag/v1.0) in [phucleeuwu/nixos-config](https://github.com/phucleeuwu/nixos-config)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
