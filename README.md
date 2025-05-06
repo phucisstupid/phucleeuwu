@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6971](https://github.com/nix-community/home-manager/issues/6971) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. 🗣 Commented on [#6971](https://github.com/nix-community/home-manager/issues/6971#issuecomment-2850707681) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. ❗ Opened issue [#6971](https://github.com/nix-community/home-manager/issues/6971) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. 🗣 Commented on [#92](https://github.com/anfreire/updateMe-Mobile/issues/92#issuecomment-2848571894) in [anfreire/updateMe-Mobile](https://github.com/anfreire/updateMe-Mobile)
-5. ❗ Opened issue [#125](https://github.com/srid/nixos-unified/issues/125) in [srid/nixos-unified](https://github.com/srid/nixos-unified)
+1. 🗣 Commented on [#552](https://github.com/catppuccin/nix/issues/552#issuecomment-2852893031) in [catppuccin/nix](https://github.com/catppuccin/nix)
+2. 🔒 Closed issue [#6971](https://github.com/nix-community/home-manager/issues/6971) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. 🗣 Commented on [#6971](https://github.com/nix-community/home-manager/issues/6971#issuecomment-2850707681) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. ❗ Opened issue [#6971](https://github.com/nix-community/home-manager/issues/6971) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+5. 🗣 Commented on [#92](https://github.com/anfreire/updateMe-Mobile/issues/92#issuecomment-2848571894) in [anfreire/updateMe-Mobile](https://github.com/anfreire/updateMe-Mobile)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
