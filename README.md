@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6998](https://github.com/nix-community/home-manager/issues/6998) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. ❗ Opened issue [#1437](https://github.com/nix-darwin/nix-darwin/issues/1437) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-3. 🗣 Commented on [#552](https://github.com/catppuccin/nix/issues/552#issuecomment-2852893031) in [catppuccin/nix](https://github.com/catppuccin/nix)
-4. 🔒 Closed issue [#6971](https://github.com/nix-community/home-manager/issues/6971) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-5. 🗣 Commented on [#6971](https://github.com/nix-community/home-manager/issues/6971#issuecomment-2850707681) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. ❗ Opened issue [#7017](https://github.com/nix-community/home-manager/issues/7017) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. 💪 Opened PR [#3](https://github.com/PhotonQuantum/flakes/pull/3) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
+3. ❗ Opened issue [#6998](https://github.com/nix-community/home-manager/issues/6998) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. ❗ Opened issue [#1437](https://github.com/nix-darwin/nix-darwin/issues/1437) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+5. 🗣 Commented on [#552](https://github.com/catppuccin/nix/issues/552#issuecomment-2852893031) in [catppuccin/nix](https://github.com/catppuccin/nix)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
