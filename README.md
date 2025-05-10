@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#389411](https://github.com/NixOS/nixpkgs/pull/389411#issuecomment-2868351122) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ❗ Opened issue [#7017](https://github.com/nix-community/home-manager/issues/7017) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. 💪 Opened PR [#3](https://github.com/PhotonQuantum/flakes/pull/3) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
-4. ❗ Opened issue [#6998](https://github.com/nix-community/home-manager/issues/6998) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-5. ❗ Opened issue [#1437](https://github.com/nix-darwin/nix-darwin/issues/1437) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+1. 🗣 Commented on [#6603](https://github.com/nix-community/home-manager/issues/6603#issuecomment-2868875748) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. 🔓 Reopened issue [#6603](https://github.com/nix-community/home-manager/issues/6603) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. ❗ Opened issue [#51](https://github.com/imsi32/yatline.yazi/issues/51) in [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi)
+4. 🔒 Closed issue [#6603](https://github.com/nix-community/home-manager/issues/6603) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+5. 🗣 Commented on [#389411](https://github.com/NixOS/nixpkgs/pull/389411#issuecomment-2868351122) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
