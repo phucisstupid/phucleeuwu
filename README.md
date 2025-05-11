@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/PhotonQuantum/flakes/pull/3) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
-2. 💪 Opened PR [#4](https://github.com/PhotonQuantum/flakes/pull/4) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
-3. 🗣 Commented on [#3](https://github.com/PhotonQuantum/flakes/pull/3#issuecomment-2869353312) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
-4. 💪 Opened PR [#3](https://github.com/nixuris/hyprnix/pull/3) in [nixuris/hyprnix](https://github.com/nixuris/hyprnix)
-5. 🗣 Commented on [#6603](https://github.com/nix-community/home-manager/issues/6603#issuecomment-2868875748) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. 🗣 Commented on [#2](https://github.com/wueestry/nixos-config/issues/2#issuecomment-2869546393) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
+2. 🗣 Commented on [#356](https://github.com/isabelroses/dotfiles/issues/356#issuecomment-2869541237) in [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles)
+3. 🗣 Commented on [#356](https://github.com/isabelroses/dotfiles/issues/356#issuecomment-2869539358) in [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles)
+4. ❌ Closed PR [#3](https://github.com/PhotonQuantum/flakes/pull/3) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
+5. 💪 Opened PR [#4](https://github.com/PhotonQuantum/flakes/pull/4) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
