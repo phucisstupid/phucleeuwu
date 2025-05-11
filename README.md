@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/nixuris/hyprnix/pull/3) in [nixuris/hyprnix](https://github.com/nixuris/hyprnix)
-2. 🗣 Commented on [#6603](https://github.com/nix-community/home-manager/issues/6603#issuecomment-2868875748) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. 🔓 Reopened issue [#6603](https://github.com/nix-community/home-manager/issues/6603) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. ❗ Opened issue [#51](https://github.com/imsi32/yatline.yazi/issues/51) in [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi)
-5. 🔒 Closed issue [#6603](https://github.com/nix-community/home-manager/issues/6603) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. ❌ Closed PR [#3](https://github.com/PhotonQuantum/flakes/pull/3) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
+2. 💪 Opened PR [#4](https://github.com/PhotonQuantum/flakes/pull/4) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
+3. 🗣 Commented on [#3](https://github.com/PhotonQuantum/flakes/pull/3#issuecomment-2869353312) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
+4. 💪 Opened PR [#3](https://github.com/nixuris/hyprnix/pull/3) in [nixuris/hyprnix](https://github.com/nixuris/hyprnix)
+5. 🗣 Commented on [#6603](https://github.com/nix-community/home-manager/issues/6603#issuecomment-2868875748) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
