@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/wueestry/nixos-config/issues/2#issuecomment-2869546393) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
-2. 🗣 Commented on [#356](https://github.com/isabelroses/dotfiles/issues/356#issuecomment-2869541237) in [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles)
-3. 🗣 Commented on [#356](https://github.com/isabelroses/dotfiles/issues/356#issuecomment-2869539358) in [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles)
-4. ❌ Closed PR [#3](https://github.com/PhotonQuantum/flakes/pull/3) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
-5. 💪 Opened PR [#4](https://github.com/PhotonQuantum/flakes/pull/4) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
+1. 🔒 Closed issue [#8](https://github.com/Rolv-Apneseth/bypass.yazi/issues/8) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
+2. 🗣 Commented on [#8](https://github.com/Rolv-Apneseth/bypass.yazi/issues/8#issuecomment-2869655396) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
+3. ❗ Opened issue [#8](https://github.com/Rolv-Apneseth/bypass.yazi/issues/8) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
+4. 🗣 Commented on [#2](https://github.com/wueestry/nixos-config/issues/2#issuecomment-2869546393) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
+5. 🗣 Commented on [#356](https://github.com/isabelroses/dotfiles/issues/356#issuecomment-2869541237) in [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
