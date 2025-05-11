@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/Rolv-Apneseth/bypass.yazi/issues/8) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
-2. 🗣 Commented on [#8](https://github.com/Rolv-Apneseth/bypass.yazi/issues/8#issuecomment-2869655396) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
-3. ❗ Opened issue [#8](https://github.com/Rolv-Apneseth/bypass.yazi/issues/8) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
-4. 🗣 Commented on [#2](https://github.com/wueestry/nixos-config/issues/2#issuecomment-2869546393) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
-5. 🗣 Commented on [#356](https://github.com/isabelroses/dotfiles/issues/356#issuecomment-2869541237) in [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles)
+1. 💪 Opened PR [#11](https://github.com/Rolv-Apneseth/bypass.yazi/pull/11) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
+2. ❌ Closed PR [#10](https://github.com/Rolv-Apneseth/bypass.yazi/pull/10) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
+3. 💪 Opened PR [#10](https://github.com/Rolv-Apneseth/bypass.yazi/pull/10) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
+4. ❌ Closed PR [#9](https://github.com/Rolv-Apneseth/bypass.yazi/pull/9) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
+5. 🗣 Commented on [#9](https://github.com/Rolv-Apneseth/bypass.yazi/pull/9#issuecomment-2869664518) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
