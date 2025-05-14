@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/phucleeuwu/dotfiles/pull/15) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-2. 💪 Opened PR [#15](https://github.com/phucleeuwu/dotfiles/pull/15) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-3. 🗣 Commented on [#272016](https://github.com/NixOS/nixpkgs/issues/272016#issuecomment-2878395976) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#11](https://github.com/matadaniel/LazyVim-module/issues/11#issuecomment-2878388535) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-5. 🎉 Merged PR [#14](https://github.com/phucleeuwu/dotfiles/pull/14) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+1. 🗣 Commented on [#25](https://github.com/matadaniel/LazyVim-module/issues/25#issuecomment-2878449819) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+2. 🎉 Merged PR [#15](https://github.com/phucleeuwu/dotfiles/pull/15) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+3. 💪 Opened PR [#15](https://github.com/phucleeuwu/dotfiles/pull/15) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+4. 🗣 Commented on [#272016](https://github.com/NixOS/nixpkgs/issues/272016#issuecomment-2878395976) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#11](https://github.com/matadaniel/LazyVim-module/issues/11#issuecomment-2878388535) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
