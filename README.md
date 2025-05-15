@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/matadaniel/LazyVim-module/pull/28) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-2. 🗣 Commented on [#25](https://github.com/matadaniel/LazyVim-module/issues/25#issuecomment-2878513405) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-3. 🗣 Commented on [#25](https://github.com/matadaniel/LazyVim-module/issues/25#issuecomment-2878449819) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-4. 🎉 Merged PR [#15](https://github.com/phucleeuwu/dotfiles/pull/15) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-5. 💪 Opened PR [#15](https://github.com/phucleeuwu/dotfiles/pull/15) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+1. 🗣 Commented on [#28](https://github.com/matadaniel/LazyVim-module/pull/28#issuecomment-2882142430) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+2. 💪 Opened PR [#28](https://github.com/matadaniel/LazyVim-module/pull/28) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+3. 🗣 Commented on [#25](https://github.com/matadaniel/LazyVim-module/issues/25#issuecomment-2878513405) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+4. 🗣 Commented on [#25](https://github.com/matadaniel/LazyVim-module/issues/25#issuecomment-2878449819) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+5. 🎉 Merged PR [#15](https://github.com/phucleeuwu/dotfiles/pull/15) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
