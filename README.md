@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/Ultra-NX/UltraNX/pull/34) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
-2. 💪 Opened PR [#33](https://github.com/Ultra-NX/UltraNX/pull/33) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
-3. 🗣 Commented on [#32](https://github.com/Ultra-NX/UltraNX/pull/32#issuecomment-2883766728) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
-4. 💪 Opened PR [#32](https://github.com/Ultra-NX/UltraNX/pull/32) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
-5. 🗣 Commented on [#28](https://github.com/matadaniel/LazyVim-module/pull/28#issuecomment-2882142430) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+1. 🔒 Closed issue [#11](https://github.com/matadaniel/LazyVim-module/issues/11) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+2. 🔒 Closed issue [#26](https://github.com/matadaniel/LazyVim-module/issues/26) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+3. 💪 Opened PR [#34](https://github.com/Ultra-NX/UltraNX/pull/34) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
+4. 💪 Opened PR [#33](https://github.com/Ultra-NX/UltraNX/pull/33) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
+5. 🗣 Commented on [#32](https://github.com/Ultra-NX/UltraNX/pull/32#issuecomment-2883766728) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
