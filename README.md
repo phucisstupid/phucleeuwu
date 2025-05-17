@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11](https://github.com/matadaniel/LazyVim-module/issues/11) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-2. 🔒 Closed issue [#26](https://github.com/matadaniel/LazyVim-module/issues/26) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-3. 💪 Opened PR [#34](https://github.com/Ultra-NX/UltraNX/pull/34) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
-4. 💪 Opened PR [#33](https://github.com/Ultra-NX/UltraNX/pull/33) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
-5. 🗣 Commented on [#32](https://github.com/Ultra-NX/UltraNX/pull/32#issuecomment-2883766728) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
+1. 🗣 Commented on [#45](https://github.com/FelixKratz/SbarLua/pull/45#issuecomment-2888287349) in [FelixKratz/SbarLua](https://github.com/FelixKratz/SbarLua)
+2. ❗ Opened issue [#29](https://github.com/matadaniel/LazyVim-module/issues/29) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+3. 🔒 Closed issue [#11](https://github.com/matadaniel/LazyVim-module/issues/11) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+4. 🔒 Closed issue [#26](https://github.com/matadaniel/LazyVim-module/issues/26) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+5. 💪 Opened PR [#34](https://github.com/Ultra-NX/UltraNX/pull/34) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
