@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/kvndrsslr/sketchybar-app-font/pull/160#issuecomment-2889065886) in [kvndrsslr/sketchybar-app-font](https://github.com/kvndrsslr/sketchybar-app-font)
-2. ❗ Opened issue [#176](https://github.com/kvndrsslr/sketchybar-app-font/issues/176) in [kvndrsslr/sketchybar-app-font](https://github.com/kvndrsslr/sketchybar-app-font)
-3. 💪 Opened PR [#1454](https://github.com/nix-darwin/nix-darwin/pull/1454) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-4. 💪 Opened PR [#7086](https://github.com/nix-community/home-manager/pull/7086) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-5. ❌ Closed PR [#7085](https://github.com/nix-community/home-manager/pull/7085) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. ❗ Opened issue [#4698](https://github.com/philc/vimium/issues/4698) in [philc/vimium](https://github.com/philc/vimium)
+2. 🗣 Commented on [#160](https://github.com/kvndrsslr/sketchybar-app-font/pull/160#issuecomment-2889065886) in [kvndrsslr/sketchybar-app-font](https://github.com/kvndrsslr/sketchybar-app-font)
+3. ❗ Opened issue [#176](https://github.com/kvndrsslr/sketchybar-app-font/issues/176) in [kvndrsslr/sketchybar-app-font](https://github.com/kvndrsslr/sketchybar-app-font)
+4. 💪 Opened PR [#1454](https://github.com/nix-darwin/nix-darwin/pull/1454) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+5. 💪 Opened PR [#7086](https://github.com/nix-community/home-manager/pull/7086) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
