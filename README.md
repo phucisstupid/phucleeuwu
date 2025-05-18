@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7086](https://github.com/nix-community/home-manager/pull/7086) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. ❌ Closed PR [#7085](https://github.com/nix-community/home-manager/pull/7085) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. 💪 Opened PR [#7085](https://github.com/nix-community/home-manager/pull/7085) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. ❌ Closed PR [#7039](https://github.com/nix-community/home-manager/pull/7039) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-5. ❗ Opened issue [#643](https://github.com/ThaUnknown/miru/issues/643) in [ThaUnknown/miru](https://github.com/ThaUnknown/miru)
+1. 💪 Opened PR [#1454](https://github.com/nix-darwin/nix-darwin/pull/1454) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+2. 💪 Opened PR [#7086](https://github.com/nix-community/home-manager/pull/7086) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. ❌ Closed PR [#7085](https://github.com/nix-community/home-manager/pull/7085) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. 💪 Opened PR [#7085](https://github.com/nix-community/home-manager/pull/7085) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+5. ❌ Closed PR [#7039](https://github.com/nix-community/home-manager/pull/7039) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
