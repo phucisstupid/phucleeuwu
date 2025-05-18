@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#643](https://github.com/ThaUnknown/miru/issues/643) in [ThaUnknown/miru](https://github.com/ThaUnknown/miru)
-2. 💪 Opened PR [#89](https://github.com/srid/nixos-config/pull/89) in [srid/nixos-config](https://github.com/srid/nixos-config)
-3. 🗣 Commented on [#1451](https://github.com/nix-darwin/nix-darwin/issues/1451#issuecomment-2888681659) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-4. ❗ Opened issue [#1451](https://github.com/nix-darwin/nix-darwin/issues/1451) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-5. 🗣 Commented on [#45](https://github.com/FelixKratz/SbarLua/pull/45#issuecomment-2888287349) in [FelixKratz/SbarLua](https://github.com/FelixKratz/SbarLua)
+1. 💪 Opened PR [#7086](https://github.com/nix-community/home-manager/pull/7086) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. ❌ Closed PR [#7085](https://github.com/nix-community/home-manager/pull/7085) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. 💪 Opened PR [#7085](https://github.com/nix-community/home-manager/pull/7085) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. ❌ Closed PR [#7039](https://github.com/nix-community/home-manager/pull/7039) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+5. ❗ Opened issue [#643](https://github.com/ThaUnknown/miru/issues/643) in [ThaUnknown/miru](https://github.com/ThaUnknown/miru)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
