@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1451](https://github.com/nix-darwin/nix-darwin/issues/1451#issuecomment-2888681659) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-2. ❗ Opened issue [#1451](https://github.com/nix-darwin/nix-darwin/issues/1451) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-3. 🗣 Commented on [#45](https://github.com/FelixKratz/SbarLua/pull/45#issuecomment-2888287349) in [FelixKratz/SbarLua](https://github.com/FelixKratz/SbarLua)
-4. ❗ Opened issue [#29](https://github.com/matadaniel/LazyVim-module/issues/29) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
-5. 🔒 Closed issue [#11](https://github.com/matadaniel/LazyVim-module/issues/11) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
+1. 💪 Opened PR [#89](https://github.com/srid/nixos-config/pull/89) in [srid/nixos-config](https://github.com/srid/nixos-config)
+2. 🗣 Commented on [#1451](https://github.com/nix-darwin/nix-darwin/issues/1451#issuecomment-2888681659) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+3. ❗ Opened issue [#1451](https://github.com/nix-darwin/nix-darwin/issues/1451) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+4. 🗣 Commented on [#45](https://github.com/FelixKratz/SbarLua/pull/45#issuecomment-2888287349) in [FelixKratz/SbarLua](https://github.com/FelixKratz/SbarLua)
+5. ❗ Opened issue [#29](https://github.com/matadaniel/LazyVim-module/issues/29) in [matadaniel/LazyVim-module](https://github.com/matadaniel/LazyVim-module)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
