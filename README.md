@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/phucleeuwu/UltraNX/pull/1) in [phucleeuwu/UltraNX](https://github.com/phucleeuwu/UltraNX)
-2. 💪 Opened PR [#1](https://github.com/phucleeuwu/UltraNX/pull/1) in [phucleeuwu/UltraNX](https://github.com/phucleeuwu/UltraNX)
-3. 💪 Opened PR [#30](https://github.com/CatcherITGF/NX-Venom/pull/30) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
-4. 💪 Opened PR [#36](https://github.com/Ultra-NX/UltraNX/pull/36) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
-5. ❗ Opened issue [#8428](https://github.com/zen-browser/desktop/issues/8428) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+1. 🎉 Merged PR [#2](https://github.com/phucleeuwu/UltraNX/pull/2) in [phucleeuwu/UltraNX](https://github.com/phucleeuwu/UltraNX)
+2. 💪 Opened PR [#2](https://github.com/phucleeuwu/UltraNX/pull/2) in [phucleeuwu/UltraNX](https://github.com/phucleeuwu/UltraNX)
+3. 🎉 Merged PR [#1](https://github.com/phucleeuwu/UltraNX/pull/1) in [phucleeuwu/UltraNX](https://github.com/phucleeuwu/UltraNX)
+4. 💪 Opened PR [#1](https://github.com/phucleeuwu/UltraNX/pull/1) in [phucleeuwu/UltraNX](https://github.com/phucleeuwu/UltraNX)
+5. 💪 Opened PR [#30](https://github.com/CatcherITGF/NX-Venom/pull/30) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
