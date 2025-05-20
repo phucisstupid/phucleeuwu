@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [The only installation guide of my fork](https://github.com/phucleeuwu/UltraNX/releases/tag/v0) in [phucleeuwu/UltraNX](https://github.com/phucleeuwu/UltraNX)
-2. 💪 Opened PR [#1](https://github.com/Ultra-NX/Ultra-Tuner/pull/1) in [Ultra-NX/Ultra-Tuner](https://github.com/Ultra-NX/Ultra-Tuner)
-3. 🎉 Merged PR [#2](https://github.com/phucleeuwu/UltraNX/pull/2) in [phucleeuwu/UltraNX](https://github.com/phucleeuwu/UltraNX)
-4. 💪 Opened PR [#2](https://github.com/phucleeuwu/UltraNX/pull/2) in [phucleeuwu/UltraNX](https://github.com/phucleeuwu/UltraNX)
-5. 🎉 Merged PR [#1](https://github.com/phucleeuwu/UltraNX/pull/1) in [phucleeuwu/UltraNX](https://github.com/phucleeuwu/UltraNX)
+1. 🗣 Commented on [#163](https://github.com/kvndrsslr/sketchybar-app-font/pull/163#issuecomment-2894693253) in [kvndrsslr/sketchybar-app-font](https://github.com/kvndrsslr/sketchybar-app-font)
+2. 🚀 Published release [The only installation guide of my fork](https://github.com/phucleeuwu/UltraNX/releases/tag/v0) in [phucleeuwu/UltraNX](https://github.com/phucleeuwu/UltraNX)
+3. 💪 Opened PR [#1](https://github.com/Ultra-NX/Ultra-Tuner/pull/1) in [Ultra-NX/Ultra-Tuner](https://github.com/Ultra-NX/Ultra-Tuner)
+4. 🎉 Merged PR [#2](https://github.com/phucleeuwu/UltraNX/pull/2) in [phucleeuwu/UltraNX](https://github.com/phucleeuwu/UltraNX)
+5. 💪 Opened PR [#2](https://github.com/phucleeuwu/UltraNX/pull/2) in [phucleeuwu/UltraNX](https://github.com/phucleeuwu/UltraNX)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
