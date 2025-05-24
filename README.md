@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [nix statix v2](https://github.com/phucleeuwu/statix-action/releases/tag/v2) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
-2. 🚀 Published release [📦 nix-statix-action V2](https://github.com/phucleeuwu/statix-action/releases/tag/v2) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
-3. 🚀 Published release [add create PR option](https://github.com/phucleeuwu/deadnix-action/releases/tag/v3) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
-4. 🚀 Published release [Add PR option](https://github.com/phucleeuwu/deadnix-action/releases/tag/v3) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
-5. 🚀 Published release [v2](https://github.com/phucleeuwu/deadnix-action/releases/tag/v2) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
+1. ❌ Closed PR [#17](https://github.com/phucleeuwu/dotfiles/pull/17) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+2. ❌ Closed PR [#16](https://github.com/phucleeuwu/dotfiles/pull/16) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+3. 🚀 Published release [nix statix v2](https://github.com/phucleeuwu/statix-action/releases/tag/v2) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
+4. 🚀 Published release [📦 nix-statix-action V2](https://github.com/phucleeuwu/statix-action/releases/tag/v2) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
+5. 🚀 Published release [add create PR option](https://github.com/phucleeuwu/deadnix-action/releases/tag/v3) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
