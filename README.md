@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [add create PR option](https://github.com/phucleeuwu/deadnix-action/releases/tag/v3) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
-2. 🚀 Published release [Add PR option](https://github.com/phucleeuwu/deadnix-action/releases/tag/v3) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
-3. 🚀 Published release [v2](https://github.com/phucleeuwu/deadnix-action/releases/tag/v2) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
-4. 🚀 Published release [v1](https://github.com/phucleeuwu/deadnix-action/releases/tag/v1) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
-5. 🗣 Commented on [#89](https://github.com/srid/nixos-config/pull/89#issuecomment-2903316533) in [srid/nixos-config](https://github.com/srid/nixos-config)
+1. 🚀 Published release [nix statix v2](https://github.com/phucleeuwu/statix-action/releases/tag/v2) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
+2. 🚀 Published release [📦 nix-statix-action V2](https://github.com/phucleeuwu/statix-action/releases/tag/v2) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
+3. 🚀 Published release [add create PR option](https://github.com/phucleeuwu/deadnix-action/releases/tag/v3) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
+4. 🚀 Published release [Add PR option](https://github.com/phucleeuwu/deadnix-action/releases/tag/v3) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
+5. 🚀 Published release [v2](https://github.com/phucleeuwu/deadnix-action/releases/tag/v2) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
