@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#548](https://github.com/catppuccin/nix/issues/548#issuecomment-2906763472) in [catppuccin/nix](https://github.com/catppuccin/nix)
-2. ❌ Closed PR [#17](https://github.com/phucleeuwu/dotfiles/pull/17) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-3. ❌ Closed PR [#16](https://github.com/phucleeuwu/dotfiles/pull/16) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
-4. 🚀 Published release [nix statix v2](https://github.com/phucleeuwu/statix-action/releases/tag/v2) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
-5. 🚀 Published release [📦 nix-statix-action V2](https://github.com/phucleeuwu/statix-action/releases/tag/v2) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
+1. 💪 Opened PR [#5](https://github.com/nixuris/hyprnix/pull/5) in [nixuris/hyprnix](https://github.com/nixuris/hyprnix)
+2. 🗣 Commented on [#548](https://github.com/catppuccin/nix/issues/548#issuecomment-2906763472) in [catppuccin/nix](https://github.com/catppuccin/nix)
+3. ❌ Closed PR [#17](https://github.com/phucleeuwu/dotfiles/pull/17) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+4. ❌ Closed PR [#16](https://github.com/phucleeuwu/dotfiles/pull/16) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+5. 🚀 Published release [nix statix v2](https://github.com/phucleeuwu/statix-action/releases/tag/v2) in [phucleeuwu/statix-action](https://github.com/phucleeuwu/statix-action)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
