@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/Ultra-NX/UltraNX/pull/33#issuecomment-2908067138) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
-2. 🗣 Commented on [#36](https://github.com/Ultra-NX/UltraNX/pull/36#issuecomment-2908060879) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
-3. 💪 Opened PR [#5](https://github.com/nixuris/hyprnix/pull/5) in [nixuris/hyprnix](https://github.com/nixuris/hyprnix)
-4. 🗣 Commented on [#548](https://github.com/catppuccin/nix/issues/548#issuecomment-2906763472) in [catppuccin/nix](https://github.com/catppuccin/nix)
-5. ❌ Closed PR [#17](https://github.com/phucleeuwu/dotfiles/pull/17) in [phucleeuwu/dotfiles](https://github.com/phucleeuwu/dotfiles)
+1. 🗣 Commented on [#36](https://github.com/Ultra-NX/UltraNX/pull/36#issuecomment-2908591727) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
+2. 🗣 Commented on [#33](https://github.com/Ultra-NX/UltraNX/pull/33#issuecomment-2908067138) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
+3. 🗣 Commented on [#36](https://github.com/Ultra-NX/UltraNX/pull/36#issuecomment-2908060879) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
+4. 💪 Opened PR [#5](https://github.com/nixuris/hyprnix/pull/5) in [nixuris/hyprnix](https://github.com/nixuris/hyprnix)
+5. 🗣 Commented on [#548](https://github.com/catppuccin/nix/issues/548#issuecomment-2906763472) in [catppuccin/nix](https://github.com/catppuccin/nix)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
