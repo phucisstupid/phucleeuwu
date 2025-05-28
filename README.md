@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/srid/nixos-config/pull/89#issuecomment-2912295864) in [srid/nixos-config](https://github.com/srid/nixos-config)
-2. ❗ Opened issue [#3](https://github.com/wueestry/nixos-config/issues/3) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
-3. 🗣 Commented on [#36](https://github.com/Ultra-NX/UltraNX/pull/36#issuecomment-2908591727) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
-4. 🗣 Commented on [#33](https://github.com/Ultra-NX/UltraNX/pull/33#issuecomment-2908067138) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
-5. 🗣 Commented on [#36](https://github.com/Ultra-NX/UltraNX/pull/36#issuecomment-2908060879) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
+1. 🗣 Commented on [#89](https://github.com/srid/nixos-config/pull/89#issuecomment-2914537146) in [srid/nixos-config](https://github.com/srid/nixos-config)
+2. 🗣 Commented on [#89](https://github.com/srid/nixos-config/pull/89#issuecomment-2912295864) in [srid/nixos-config](https://github.com/srid/nixos-config)
+3. ❗ Opened issue [#3](https://github.com/wueestry/nixos-config/issues/3) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
+4. 🗣 Commented on [#36](https://github.com/Ultra-NX/UltraNX/pull/36#issuecomment-2908591727) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
+5. 🗣 Commented on [#33](https://github.com/Ultra-NX/UltraNX/pull/33#issuecomment-2908067138) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
