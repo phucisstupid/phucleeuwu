@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#34](https://github.com/CatcherITGF/NX-Venom/pull/34) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
-2. 💪 Opened PR [#34](https://github.com/CatcherITGF/NX-Venom/pull/34) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
-3. 💪 Opened PR [#8644](https://github.com/zen-browser/desktop/pull/8644) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. 🗣 Commented on [#89](https://github.com/srid/nixos-config/pull/89#issuecomment-2914537146) in [srid/nixos-config](https://github.com/srid/nixos-config)
-5. 🗣 Commented on [#89](https://github.com/srid/nixos-config/pull/89#issuecomment-2912295864) in [srid/nixos-config](https://github.com/srid/nixos-config)
+1. 💪 Opened PR [#35](https://github.com/CatcherITGF/NX-Venom/pull/35) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
+2. ❌ Closed PR [#34](https://github.com/CatcherITGF/NX-Venom/pull/34) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
+3. 💪 Opened PR [#34](https://github.com/CatcherITGF/NX-Venom/pull/34) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
+4. 💪 Opened PR [#8644](https://github.com/zen-browser/desktop/pull/8644) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+5. 🗣 Commented on [#89](https://github.com/srid/nixos-config/pull/89#issuecomment-2914537146) in [srid/nixos-config](https://github.com/srid/nixos-config)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
