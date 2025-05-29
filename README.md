@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8644](https://github.com/zen-browser/desktop/pull/8644) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🗣 Commented on [#89](https://github.com/srid/nixos-config/pull/89#issuecomment-2914537146) in [srid/nixos-config](https://github.com/srid/nixos-config)
-3. 🗣 Commented on [#89](https://github.com/srid/nixos-config/pull/89#issuecomment-2912295864) in [srid/nixos-config](https://github.com/srid/nixos-config)
-4. ❗ Opened issue [#3](https://github.com/wueestry/nixos-config/issues/3) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
-5. 🗣 Commented on [#36](https://github.com/Ultra-NX/UltraNX/pull/36#issuecomment-2908591727) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
+1. 💪 Opened PR [#34](https://github.com/CatcherITGF/NX-Venom/pull/34) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
+2. 💪 Opened PR [#8644](https://github.com/zen-browser/desktop/pull/8644) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+3. 🗣 Commented on [#89](https://github.com/srid/nixos-config/pull/89#issuecomment-2914537146) in [srid/nixos-config](https://github.com/srid/nixos-config)
+4. 🗣 Commented on [#89](https://github.com/srid/nixos-config/pull/89#issuecomment-2912295864) in [srid/nixos-config](https://github.com/srid/nixos-config)
+5. ❗ Opened issue [#3](https://github.com/wueestry/nixos-config/issues/3) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
