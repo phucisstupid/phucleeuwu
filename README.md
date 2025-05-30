@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/PhotonQuantum/flakes/pull/6) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
-2. 🗣 Commented on [#8428](https://github.com/zen-browser/desktop/issues/8428#issuecomment-2919301501) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-3. 💪 Opened PR [#35](https://github.com/CatcherITGF/NX-Venom/pull/35) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
-4. ❌ Closed PR [#34](https://github.com/CatcherITGF/NX-Venom/pull/34) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
-5. 💪 Opened PR [#34](https://github.com/CatcherITGF/NX-Venom/pull/34) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
+1. 💪 Opened PR [#12](https://github.com/Rolv-Apneseth/bypass.yazi/pull/12) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
+2. 🗣 Commented on [#3](https://github.com/wueestry/nixos-config/issues/3#issuecomment-2921237500) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
+3. 🔒 Closed issue [#3](https://github.com/wueestry/nixos-config/issues/3) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
+4. 💪 Opened PR [#6](https://github.com/PhotonQuantum/flakes/pull/6) in [PhotonQuantum/flakes](https://github.com/PhotonQuantum/flakes)
+5. 🗣 Commented on [#8428](https://github.com/zen-browser/desktop/issues/8428#issuecomment-2919301501) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
