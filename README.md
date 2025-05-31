@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/jdurand/dotfiles/issues/3) in [jdurand/dotfiles](https://github.com/jdurand/dotfiles)
-2. 💪 Opened PR [#203](https://github.com/khaneliman/khanelinix/pull/203) in [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix)
-3. 🔒 Closed issue [#6603](https://github.com/nix-community/home-manager/issues/6603) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. 🔒 Closed issue [#1](https://github.com/vitorf7/dotfiles/issues/1) in [vitorf7/dotfiles](https://github.com/vitorf7/dotfiles)
-5. 🔒 Closed issue [#7017](https://github.com/nix-community/home-manager/issues/7017) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. 💪 Opened PR [#412633](https://github.com/NixOS/nixpkgs/pull/412633) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#51](https://github.com/imsi32/yatline.yazi/issues/51#issuecomment-2924778179) in [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi)
+3. 💪 Opened PR [#412628](https://github.com/NixOS/nixpkgs/pull/412628) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ❗ Opened issue [#3](https://github.com/jdurand/dotfiles/issues/3) in [jdurand/dotfiles](https://github.com/jdurand/dotfiles)
+5. 💪 Opened PR [#203](https://github.com/khaneliman/khanelinix/pull/203) in [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
