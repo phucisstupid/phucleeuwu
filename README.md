@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6603](https://github.com/nix-community/home-manager/issues/6603) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. 🔒 Closed issue [#1](https://github.com/vitorf7/dotfiles/issues/1) in [vitorf7/dotfiles](https://github.com/vitorf7/dotfiles)
-3. 🔒 Closed issue [#7017](https://github.com/nix-community/home-manager/issues/7017) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. ❗ Opened issue [#3](https://github.com/bfpimentel/nixos/issues/3) in [bfpimentel/nixos](https://github.com/bfpimentel/nixos)
-5. 💪 Opened PR [#4](https://github.com/ourongxing/fast-enter.yazi/pull/4) in [ourongxing/fast-enter.yazi](https://github.com/ourongxing/fast-enter.yazi)
+1. 💪 Opened PR [#203](https://github.com/khaneliman/khanelinix/pull/203) in [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix)
+2. 🔒 Closed issue [#6603](https://github.com/nix-community/home-manager/issues/6603) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. 🔒 Closed issue [#1](https://github.com/vitorf7/dotfiles/issues/1) in [vitorf7/dotfiles](https://github.com/vitorf7/dotfiles)
+4. 🔒 Closed issue [#7017](https://github.com/nix-community/home-manager/issues/7017) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+5. ❗ Opened issue [#3](https://github.com/bfpimentel/nixos/issues/3) in [bfpimentel/nixos](https://github.com/bfpimentel/nixos)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
