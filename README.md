@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#576](https://github.com/catppuccin/nix/pull/576) in [catppuccin/nix](https://github.com/catppuccin/nix)
-2. 💪 Opened PR [#7160](https://github.com/nix-community/home-manager/pull/7160) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. 💪 Opened PR [#12](https://github.com/Rolv-Apneseth/bypass.yazi/pull/12) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
-4. 🗣 Commented on [#3](https://github.com/wueestry/nixos-config/issues/3#issuecomment-2921237500) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
-5. 🔒 Closed issue [#3](https://github.com/wueestry/nixos-config/issues/3) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
+1. 💪 Opened PR [#4](https://github.com/ourongxing/fast-enter.yazi/pull/4) in [ourongxing/fast-enter.yazi](https://github.com/ourongxing/fast-enter.yazi)
+2. 💪 Opened PR [#576](https://github.com/catppuccin/nix/pull/576) in [catppuccin/nix](https://github.com/catppuccin/nix)
+3. 💪 Opened PR [#7160](https://github.com/nix-community/home-manager/pull/7160) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. 💪 Opened PR [#12](https://github.com/Rolv-Apneseth/bypass.yazi/pull/12) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
+5. 🗣 Commented on [#3](https://github.com/wueestry/nixos-config/issues/3#issuecomment-2921237500) in [wueestry/nixos-config](https://github.com/wueestry/nixos-config)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
