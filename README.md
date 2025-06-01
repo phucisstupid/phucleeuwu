@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7178](https://github.com/nix-community/home-manager/pull/7178) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. 💪 Opened PR [#412633](https://github.com/NixOS/nixpkgs/pull/412633) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#51](https://github.com/imsi32/yatline.yazi/issues/51#issuecomment-2924778179) in [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi)
-4. 💪 Opened PR [#412628](https://github.com/NixOS/nixpkgs/pull/412628) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. ❗ Opened issue [#3](https://github.com/jdurand/dotfiles/issues/3) in [jdurand/dotfiles](https://github.com/jdurand/dotfiles)
+1. 💪 Opened PR [#56](https://github.com/Matt-FTW/dotfiles/pull/56) in [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles)
+2. 💪 Opened PR [#7178](https://github.com/nix-community/home-manager/pull/7178) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. 💪 Opened PR [#412633](https://github.com/NixOS/nixpkgs/pull/412633) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#51](https://github.com/imsi32/yatline.yazi/issues/51#issuecomment-2924778179) in [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi)
+5. 💪 Opened PR [#412628](https://github.com/NixOS/nixpkgs/pull/412628) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
