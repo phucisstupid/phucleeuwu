@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3: allow to create pull request](https://github.com/phucleeuwu/deadnix-action/releases/tag/v3) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
-2. 💪 Opened PR [#56](https://github.com/Matt-FTW/dotfiles/pull/56) in [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles)
-3. 💪 Opened PR [#7178](https://github.com/nix-community/home-manager/pull/7178) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. 💪 Opened PR [#412633](https://github.com/NixOS/nixpkgs/pull/412633) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#51](https://github.com/imsi32/yatline.yazi/issues/51#issuecomment-2924778179) in [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi)
+1. ❗ Opened issue [#56](https://github.com/imsi32/yatline.yazi/issues/56) in [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi)
+2. 💪 Opened PR [#14](https://github.com/Rolv-Apneseth/bypass.yazi/pull/14) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
+3. 🚀 Published release [v3: allow to create pull request](https://github.com/phucleeuwu/deadnix-action/releases/tag/v3) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
+4. 💪 Opened PR [#56](https://github.com/Matt-FTW/dotfiles/pull/56) in [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles)
+5. 💪 Opened PR [#7178](https://github.com/nix-community/home-manager/pull/7178) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
