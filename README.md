@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Rolv-Apneseth/bypass.yazi/pull/14#issuecomment-2927309014) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
-2. ❗ Opened issue [#56](https://github.com/imsi32/yatline.yazi/issues/56) in [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi)
-3. 💪 Opened PR [#14](https://github.com/Rolv-Apneseth/bypass.yazi/pull/14) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
-4. 🚀 Published release [v3: allow to create pull request](https://github.com/phucleeuwu/deadnix-action/releases/tag/v3) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
-5. 💪 Opened PR [#56](https://github.com/Matt-FTW/dotfiles/pull/56) in [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles)
+1. ❌ Closed PR [#27](https://github.com/Rolv-Apneseth/starship.yazi/pull/27) in [Rolv-Apneseth/starship.yazi](https://github.com/Rolv-Apneseth/starship.yazi)
+2. 💪 Opened PR [#27](https://github.com/Rolv-Apneseth/starship.yazi/pull/27) in [Rolv-Apneseth/starship.yazi](https://github.com/Rolv-Apneseth/starship.yazi)
+3. 🗣 Commented on [#14](https://github.com/Rolv-Apneseth/bypass.yazi/pull/14#issuecomment-2927309014) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
+4. ❗ Opened issue [#56](https://github.com/imsi32/yatline.yazi/issues/56) in [imsi32/yatline.yazi](https://github.com/imsi32/yatline.yazi)
+5. 💪 Opened PR [#14](https://github.com/Rolv-Apneseth/bypass.yazi/pull/14) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
