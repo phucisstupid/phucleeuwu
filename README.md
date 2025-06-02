@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/Rolv-Apneseth/starship.yazi/pull/28#issuecomment-2927483410) in [Rolv-Apneseth/starship.yazi](https://github.com/Rolv-Apneseth/starship.yazi)
-2. 💪 Opened PR [#28](https://github.com/Rolv-Apneseth/starship.yazi/pull/28) in [Rolv-Apneseth/starship.yazi](https://github.com/Rolv-Apneseth/starship.yazi)
-3. ❌ Closed PR [#27](https://github.com/Rolv-Apneseth/starship.yazi/pull/27) in [Rolv-Apneseth/starship.yazi](https://github.com/Rolv-Apneseth/starship.yazi)
-4. 💪 Opened PR [#27](https://github.com/Rolv-Apneseth/starship.yazi/pull/27) in [Rolv-Apneseth/starship.yazi](https://github.com/Rolv-Apneseth/starship.yazi)
-5. 🗣 Commented on [#14](https://github.com/Rolv-Apneseth/bypass.yazi/pull/14#issuecomment-2927309014) in [Rolv-Apneseth/bypass.yazi](https://github.com/Rolv-Apneseth/bypass.yazi)
+1. 🗣 Commented on [#35](https://github.com/CatcherITGF/NX-Venom/pull/35#issuecomment-2928687283) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
+2. 🗣 Commented on [#28](https://github.com/Rolv-Apneseth/starship.yazi/pull/28#issuecomment-2927483410) in [Rolv-Apneseth/starship.yazi](https://github.com/Rolv-Apneseth/starship.yazi)
+3. 💪 Opened PR [#28](https://github.com/Rolv-Apneseth/starship.yazi/pull/28) in [Rolv-Apneseth/starship.yazi](https://github.com/Rolv-Apneseth/starship.yazi)
+4. ❌ Closed PR [#27](https://github.com/Rolv-Apneseth/starship.yazi/pull/27) in [Rolv-Apneseth/starship.yazi](https://github.com/Rolv-Apneseth/starship.yazi)
+5. 💪 Opened PR [#27](https://github.com/Rolv-Apneseth/starship.yazi/pull/27) in [Rolv-Apneseth/starship.yazi](https://github.com/Rolv-Apneseth/starship.yazi)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
