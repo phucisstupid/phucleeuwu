@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/Ultra-NX/UltraNX/pull/37) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
-2. 🗣 Commented on [#7178](https://github.com/nix-community/home-manager/pull/7178#issuecomment-2930587767) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. 🗣 Commented on [#8428](https://github.com/zen-browser/desktop/issues/8428#issuecomment-2929739235) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. 🗣 Commented on [#35](https://github.com/CatcherITGF/NX-Venom/pull/35#issuecomment-2928687283) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
-5. 🗣 Commented on [#28](https://github.com/Rolv-Apneseth/starship.yazi/pull/28#issuecomment-2927483410) in [Rolv-Apneseth/starship.yazi](https://github.com/Rolv-Apneseth/starship.yazi)
+1. ❗ Opened issue [#57](https://github.com/iffse/pay-respects/issues/57) in [iffse/pay-respects](https://github.com/iffse/pay-respects)
+2. 💪 Opened PR [#37](https://github.com/Ultra-NX/UltraNX/pull/37) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
+3. 🗣 Commented on [#7178](https://github.com/nix-community/home-manager/pull/7178#issuecomment-2930587767) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. 🗣 Commented on [#8428](https://github.com/zen-browser/desktop/issues/8428#issuecomment-2929739235) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+5. 🗣 Commented on [#35](https://github.com/CatcherITGF/NX-Venom/pull/35#issuecomment-2928687283) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
