@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#57](https://github.com/iffse/pay-respects/issues/57) in [iffse/pay-respects](https://github.com/iffse/pay-respects)
-2. 💪 Opened PR [#37](https://github.com/Ultra-NX/UltraNX/pull/37) in [Ultra-NX/UltraNX](https://github.com/Ultra-NX/UltraNX)
-3. 🗣 Commented on [#7178](https://github.com/nix-community/home-manager/pull/7178#issuecomment-2930587767) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-4. 🗣 Commented on [#8428](https://github.com/zen-browser/desktop/issues/8428#issuecomment-2929739235) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-5. 🗣 Commented on [#35](https://github.com/CatcherITGF/NX-Venom/pull/35#issuecomment-2928687283) in [CatcherITGF/NX-Venom](https://github.com/CatcherITGF/NX-Venom)
+1. 🔒 Closed issue [#1](https://github.com/fdw/yazi-zoxide-zsh/issues/1) in [fdw/yazi-zoxide-zsh](https://github.com/fdw/yazi-zoxide-zsh)
+2. 🔒 Closed issue [#1](https://github.com/alternoegraha/releases/issues/1) in [alternoegraha/releases](https://github.com/alternoegraha/releases)
+3. 🔒 Closed issue [#25](https://github.com/CherishOS/android_manifest/issues/25) in [CherishOS/android_manifest](https://github.com/CherishOS/android_manifest)
+4. 🔒 Closed issue [#3](https://github.com/aero-the-synaptic-electrician/rize-cracked/issues/3) in [aero-the-synaptic-electrician/rize-cracked](https://github.com/aero-the-synaptic-electrician/rize-cracked)
+5. ❗ Opened issue [#57](https://github.com/iffse/pay-respects/issues/57) in [iffse/pay-respects](https://github.com/iffse/pay-respects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
