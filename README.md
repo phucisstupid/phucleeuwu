@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/fdw/yazi-zoxide-zsh/issues/1) in [fdw/yazi-zoxide-zsh](https://github.com/fdw/yazi-zoxide-zsh)
-2. 🔒 Closed issue [#1](https://github.com/alternoegraha/releases/issues/1) in [alternoegraha/releases](https://github.com/alternoegraha/releases)
-3. 🔒 Closed issue [#25](https://github.com/CherishOS/android_manifest/issues/25) in [CherishOS/android_manifest](https://github.com/CherishOS/android_manifest)
-4. 🔒 Closed issue [#3](https://github.com/aero-the-synaptic-electrician/rize-cracked/issues/3) in [aero-the-synaptic-electrician/rize-cracked](https://github.com/aero-the-synaptic-electrician/rize-cracked)
-5. ❗ Opened issue [#57](https://github.com/iffse/pay-respects/issues/57) in [iffse/pay-respects](https://github.com/iffse/pay-respects)
+1. ❗ Opened issue [#466](https://github.com/Jean-Tinland/simple-bar/issues/466) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
+2. 🔒 Closed issue [#1](https://github.com/fdw/yazi-zoxide-zsh/issues/1) in [fdw/yazi-zoxide-zsh](https://github.com/fdw/yazi-zoxide-zsh)
+3. 🔒 Closed issue [#1](https://github.com/alternoegraha/releases/issues/1) in [alternoegraha/releases](https://github.com/alternoegraha/releases)
+4. 🔒 Closed issue [#25](https://github.com/CherishOS/android_manifest/issues/25) in [CherishOS/android_manifest](https://github.com/CherishOS/android_manifest)
+5. 🔒 Closed issue [#3](https://github.com/aero-the-synaptic-electrician/rize-cracked/issues/3) in [aero-the-synaptic-electrician/rize-cracked](https://github.com/aero-the-synaptic-electrician/rize-cracked)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
