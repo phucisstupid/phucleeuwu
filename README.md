@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#738](https://github.com/FelixKratz/SketchyBar/issues/738#issuecomment-2961336343) in [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar)
-2. 🔒 Closed issue [#3](https://github.com/bfpimentel/nixos/issues/3) in [bfpimentel/nixos](https://github.com/bfpimentel/nixos)
-3. ❗ Opened issue [#48](https://github.com/RockinChaos/Shiru/issues/48) in [RockinChaos/Shiru](https://github.com/RockinChaos/Shiru)
-4. ❗ Opened issue [#466](https://github.com/Jean-Tinland/simple-bar/issues/466) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
-5. 🔒 Closed issue [#1](https://github.com/fdw/yazi-zoxide-zsh/issues/1) in [fdw/yazi-zoxide-zsh](https://github.com/fdw/yazi-zoxide-zsh)
+1. ❗ Opened issue [#1509](https://github.com/nix-darwin/nix-darwin/issues/1509) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+2. 🗣 Commented on [#738](https://github.com/FelixKratz/SketchyBar/issues/738#issuecomment-2961336343) in [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar)
+3. 🔒 Closed issue [#3](https://github.com/bfpimentel/nixos/issues/3) in [bfpimentel/nixos](https://github.com/bfpimentel/nixos)
+4. ❗ Opened issue [#48](https://github.com/RockinChaos/Shiru/issues/48) in [RockinChaos/Shiru](https://github.com/RockinChaos/Shiru)
+5. ❗ Opened issue [#466](https://github.com/Jean-Tinland/simple-bar/issues/466) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
