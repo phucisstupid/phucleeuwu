@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1509](https://github.com/nix-darwin/nix-darwin/issues/1509#issuecomment-2961714952) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-2. 🗣 Commented on [#1509](https://github.com/nix-darwin/nix-darwin/issues/1509#issuecomment-2961707356) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
-3. ❗ Opened issue [#78](https://github.com/FelixKratz/dotfiles/issues/78) in [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
-4. ❗ Opened issue [#467](https://github.com/Jean-Tinland/simple-bar/issues/467) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
-5. 🗣 Commented on [#1509](https://github.com/nix-darwin/nix-darwin/issues/1509#issuecomment-2961662537) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+1. 🚀 Published release [v1](https://github.com/phucleeuwu/deadnix-action/releases/tag/v1) in [phucleeuwu/deadnix-action](https://github.com/phucleeuwu/deadnix-action)
+2. 🗣 Commented on [#1509](https://github.com/nix-darwin/nix-darwin/issues/1509#issuecomment-2961714952) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+3. 🗣 Commented on [#1509](https://github.com/nix-darwin/nix-darwin/issues/1509#issuecomment-2961707356) in [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+4. ❗ Opened issue [#78](https://github.com/FelixKratz/dotfiles/issues/78) in [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles)
+5. ❗ Opened issue [#467](https://github.com/Jean-Tinland/simple-bar/issues/467) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
