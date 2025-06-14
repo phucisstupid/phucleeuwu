@@ -13,11 +13,11 @@
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/D3Ext/WEF/pull/48) in [D3Ext/WEF](https://github.com/D3Ext/WEF)
-2. ❗ Opened issue [#468](https://github.com/Jean-Tinland/simple-bar/issues/468) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
-3. 💪 Opened PR [#207](https://github.com/khaneliman/khanelinix/pull/207) in [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix)
-4. 💪 Opened PR [#13](https://github.com/ThePrimeagen/anime/pull/13) in [ThePrimeagen/anime](https://github.com/ThePrimeagen/anime)
-5. 🗣 Commented on [#6634](https://github.com/nix-community/home-manager/issues/6634#issuecomment-2972132188) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+1. 💪 Opened PR [#5](https://github.com/ThePrimeagen/daydream/pull/5) in [ThePrimeagen/daydream](https://github.com/ThePrimeagen/daydream)
+2. 💪 Opened PR [#48](https://github.com/D3Ext/WEF/pull/48) in [D3Ext/WEF](https://github.com/D3Ext/WEF)
+3. ❗ Opened issue [#468](https://github.com/Jean-Tinland/simple-bar/issues/468) in [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar)
+4. 💪 Opened PR [#207](https://github.com/khaneliman/khanelinix/pull/207) in [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix)
+5. 💪 Opened PR [#13](https://github.com/ThePrimeagen/anime/pull/13) in [ThePrimeagen/anime](https://github.com/ThePrimeagen/anime)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
