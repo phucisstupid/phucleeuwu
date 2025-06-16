@@ -4,9 +4,9 @@
 
 ## 〽️ Stats
 
-![Profile Detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucleeuwu&theme=transparent)
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucleeuwu&theme=transparent)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucleeuwu&theme=transparent&utcOffset=8)
+![Profile Detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phucisstupid&theme=transparent)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phucisstupid&theme=transparent)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phucisstupid&theme=transparent&utcOffset=8)
 
 ---
 
